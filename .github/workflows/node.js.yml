@@ -30,7 +30,6 @@ jobs:
         cache: 'npm'
     - run: git pull
     - run: node main.js
-    - name: Archive code coverage results
     - uses: x-actions/gh-pages@release/v1
       name: Push to Github
       env:
