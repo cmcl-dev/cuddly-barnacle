@@ -31,8 +31,8 @@ jobs:
     - run: git pull
     - run: node main.js
     - name: Archive code coverage results
-    - name: Push to Github
-      uses: x-actions/gh-pages@release/v1
+    - uses: x-actions/gh-pages@release/v1
+      name: Push to Github
       env:
         GITHUB_EMAIL: "me@xiexianbin.cn"
         GITHUB_USERNAME: "xiexianbin"
