@@ -30,6 +30,11 @@ jobs:
         cache: 'npm'
     - run: git pull
     - run: node main.js
+    - name: Archive code coverage results
+        uses: actions/upload-artifact@v3
+          with:
+            name: code-coverage-report
+            path: *.md
     - name: Commit files
       run: |
          git config --local user.email "liumingedwin@qq.com"
