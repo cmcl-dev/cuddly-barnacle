@@ -4,11 +4,25 @@
         <title>程序员成长指北</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 06:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员成长指北</copyright>
+        <item>
+            <title><![CDATA[面试官：indexOf 和 findIndex 的区别？]]></title>
+            <link>https://mp.weixin.qq.com/s/u_ki8PWRUoeXlhTnZRt0EQ</link>
+            <guid>https://mp.weixin.qq.com/s/u_ki8PWRUoeXlhTnZRt0EQ</guid>
+            <pubDate>Wed, 21 Sep 2022 06:33:24 GMT</pubDate>
+            <description><![CDATA[面试官：indexOf 和 findIndex 的区别？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[想学 JavaScript 该如何规划学习路线?]]></title>
+            <link>https://mp.weixin.qq.com/s/8ESdWg5degjoHx_QaSO9Xw</link>
+            <guid>https://mp.weixin.qq.com/s/8ESdWg5degjoHx_QaSO9Xw</guid>
+            <pubDate>Wed, 21 Sep 2022 06:33:24 GMT</pubDate>
+            <description><![CDATA[想学 JavaScript 该如何规划学习路线?]]></description>
+        </item>
         <item>
             <title><![CDATA[从两个前端的小公司，直接跳进当时几乎国内最强的前端团队！]]></title>
             <link>https://mp.weixin.qq.com/s/CEQngjMFnZzXcA255eY5DQ</link>
