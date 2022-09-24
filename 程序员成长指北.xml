@@ -4,11 +4,18 @@
         <title>程序员成长指北</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 21 Sep 2022 06:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 02:55:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员成长指北</copyright>
+        <item>
+            <title><![CDATA[创意！原来阮大佬博客的阅读进度功能这么简单]]></title>
+            <link>https://mp.weixin.qq.com/s/DPakuOcokSls-J7uSbHPPw</link>
+            <guid>https://mp.weixin.qq.com/s/DPakuOcokSls-J7uSbHPPw</guid>
+            <pubDate>Sat, 24 Sep 2022 02:51:46 GMT</pubDate>
+            <description><![CDATA[创意！原来阮大佬博客的阅读进度功能这么简单]]></description>
+        </item>
         <item>
             <title><![CDATA[面试官：indexOf 和 findIndex 的区别？]]></title>
             <link>https://mp.weixin.qq.com/s/u_ki8PWRUoeXlhTnZRt0EQ</link>

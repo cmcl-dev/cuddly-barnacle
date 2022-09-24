@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 22 Sep 2022 01:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 01:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[Excel 在 Java 中还能这么操作 ?]]></title>
+            <link>https://mp.weixin.qq.com/s/4ib1gUvwGyY66ckqTxTlxg</link>
+            <guid>https://mp.weixin.qq.com/s/4ib1gUvwGyY66ckqTxTlxg</guid>
+            <pubDate>Sat, 24 Sep 2022 01:10:04 GMT</pubDate>
+            <description><![CDATA[Excel 在 Java 中还能这么操作 ?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靠“作弊”入职，结果还是大翻车。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/49TD4E1AUAbbxKCu15J2pA</link>
+            <guid>https://mp.weixin.qq.com/s/49TD4E1AUAbbxKCu15J2pA</guid>
+            <pubDate>Sat, 24 Sep 2022 01:10:03 GMT</pubDate>
+            <description><![CDATA[靠“作弊”入职，结果还是大翻车。。。]]></description>
+        </item>
         <item>
             <title><![CDATA[HashMap夺命14问，你能坚持到第几问？]]></title>
             <link>https://mp.weixin.qq.com/s/5_Y6SF8UyJLf7iKwIOgyyg</link>
