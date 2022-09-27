@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 26 Sep 2022 01:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 01:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[HTTPS 就一定安全？我不信]]></title>
+            <link>https://mp.weixin.qq.com/s/nS1bMy2TejmGwEfCHPXy5A</link>
+            <guid>https://mp.weixin.qq.com/s/nS1bMy2TejmGwEfCHPXy5A</guid>
+            <pubDate>Tue, 27 Sep 2022 01:10:04 GMT</pubDate>
+            <description><![CDATA[HTTPS 就一定安全？我不信]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用6个真实案例，一次性讲明白爬虫逆向！]]></title>
+            <link>https://mp.weixin.qq.com/s/Sfp0jYMRlF396cRHihB4aA</link>
+            <guid>https://mp.weixin.qq.com/s/Sfp0jYMRlF396cRHihB4aA</guid>
+            <pubDate>Tue, 27 Sep 2022 01:10:04 GMT</pubDate>
+            <description><![CDATA[用6个真实案例，一次性讲明白爬虫逆向！]]></description>
+        </item>
         <item>
             <title><![CDATA[谁说没实习经历，就不能进大厂了！]]></title>
             <link>https://mp.weixin.qq.com/s/-XCQLFEeO973YeegqM842g</link>

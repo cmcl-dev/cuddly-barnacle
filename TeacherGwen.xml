@@ -4,11 +4,39 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 22 Sep 2022 04:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 04:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日一句|9.27]]></title>
+            <link>https://mp.weixin.qq.com/s/1EV5qdlCVL09FCIyKkLW6A</link>
+            <guid>https://mp.weixin.qq.com/s/1EV5qdlCVL09FCIyKkLW6A</guid>
+            <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
+            <description><![CDATA[每日一句|9.27]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们一起神翻译|9.27]]></title>
+            <link>https://mp.weixin.qq.com/s/eEiRan4TwgW41NmuOsDaDQ</link>
+            <guid>https://mp.weixin.qq.com/s/eEiRan4TwgW41NmuOsDaDQ</guid>
+            <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
+            <description><![CDATA[我们一起神翻译|9.27]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每日听写|9.27]]></title>
+            <link>https://mp.weixin.qq.com/s/olX8sscl3vJIkZQgYgUVbg</link>
+            <guid>https://mp.weixin.qq.com/s/olX8sscl3vJIkZQgYgUVbg</guid>
+            <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
+            <description><![CDATA[每日听写|9.27]]></description>
+        </item>
+        <item>
+            <title><![CDATA[9.27早读 | 拯救这世界，让她变更好]]></title>
+            <link>https://mp.weixin.qq.com/s/LM6-K0BDT1nIZMQFVNEoVA</link>
+            <guid>https://mp.weixin.qq.com/s/LM6-K0BDT1nIZMQFVNEoVA</guid>
+            <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
+            <description><![CDATA[9.27早读 | 拯救这世界，让她变更好]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|9.22]]></title>
             <link>https://mp.weixin.qq.com/s/0vTygG6vcxjFtRDK64S6BQ</link>
@@ -680,34 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/zZfId5DpsRq7cPhoSoy1cg</guid>
             <pubDate>Mon, 11 Jul 2022 13:59:35 GMT</pubDate>
             <description><![CDATA[每日一句|7.11]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|7.11]]></title>
-            <link>https://mp.weixin.qq.com/s/3JE7ND1d75QM_58jZ-XRiw</link>
-            <guid>https://mp.weixin.qq.com/s/3JE7ND1d75QM_58jZ-XRiw</guid>
-            <pubDate>Mon, 11 Jul 2022 13:59:35 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|7.11]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|7.11]]></title>
-            <link>https://mp.weixin.qq.com/s/zJWW9WlRta3KlqXdJSOZRQ</link>
-            <guid>https://mp.weixin.qq.com/s/zJWW9WlRta3KlqXdJSOZRQ</guid>
-            <pubDate>Mon, 11 Jul 2022 13:59:35 GMT</pubDate>
-            <description><![CDATA[每日听写|7.11]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【老外说】美国老人帮带孙子孙女吗？]]></title>
-            <link>https://mp.weixin.qq.com/s/eERVFq6zNvDN5n9Xf14qbg</link>
-            <guid>https://mp.weixin.qq.com/s/eERVFq6zNvDN5n9Xf14qbg</guid>
-            <pubDate>Mon, 11 Jul 2022 13:59:35 GMT</pubDate>
-            <description><![CDATA[【老外说】美国老人帮带孙子孙女吗？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7.11早读 | 生活不公，但也值得我们认真地活下去]]></title>
-            <link>https://mp.weixin.qq.com/s/GnfjF5HLmVj93T6eXYMyRw</link>
-            <guid>https://mp.weixin.qq.com/s/GnfjF5HLmVj93T6eXYMyRw</guid>
-            <pubDate>Mon, 11 Jul 2022 13:59:35 GMT</pubDate>
-            <description><![CDATA[7.11早读 | 生活不公，但也值得我们认真地活下去]]></description>
         </item>
     </channel>
 </rss>
