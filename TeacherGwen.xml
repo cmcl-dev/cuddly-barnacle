@@ -4,11 +4,25 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 29 Sep 2022 04:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 07:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写|10.4]]></title>
+            <link>https://mp.weixin.qq.com/s/J2YjFIrIAumpazmaPlicrQ</link>
+            <guid>https://mp.weixin.qq.com/s/J2YjFIrIAumpazmaPlicrQ</guid>
+            <pubDate>Tue, 04 Oct 2022 07:17:44 GMT</pubDate>
+            <description><![CDATA[每日听写|10.4]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【国庆特辑】英文歌教唱：Five Hundred Miles]]></title>
+            <link>https://mp.weixin.qq.com/s/PDGXD0rC5EtVGi_72ZZ4lQ</link>
+            <guid>https://mp.weixin.qq.com/s/PDGXD0rC5EtVGi_72ZZ4lQ</guid>
+            <pubDate>Tue, 04 Oct 2022 07:17:44 GMT</pubDate>
+            <description><![CDATA[【国庆特辑】英文歌教唱：Five Hundred Miles]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|9.29]]></title>
             <link>https://mp.weixin.qq.com/s/pSs1VnwCWId63lnkPFOkEQ</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/MjDiY-5X7cmi--iuffo9lg</guid>
             <pubDate>Fri, 15 Jul 2022 15:30:50 GMT</pubDate>
             <description><![CDATA[“遭报应”用英文怎么说？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7.15早读 | 知人知面难知心]]></title>
-            <link>https://mp.weixin.qq.com/s/6-WRtLdv286BSN5TxepGJw</link>
-            <guid>https://mp.weixin.qq.com/s/6-WRtLdv286BSN5TxepGJw</guid>
-            <pubDate>Fri, 15 Jul 2022 15:30:50 GMT</pubDate>
-            <description><![CDATA[7.15早读 | 知人知面难知心]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|7.14]]></title>
-            <link>https://mp.weixin.qq.com/s/qbJM4wcmbvPWNtaEwL9FfA</link>
-            <guid>https://mp.weixin.qq.com/s/qbJM4wcmbvPWNtaEwL9FfA</guid>
-            <pubDate>Thu, 14 Jul 2022 04:14:47 GMT</pubDate>
-            <description><![CDATA[每日一句|7.14]]></description>
         </item>
     </channel>
 </rss>
