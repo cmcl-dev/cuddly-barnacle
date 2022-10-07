@@ -4,11 +4,25 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 05 Oct 2022 07:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 14:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写|10.7]]></title>
+            <link>https://mp.weixin.qq.com/s/CgD5J6CronqBgzUCyuYnXg</link>
+            <guid>https://mp.weixin.qq.com/s/CgD5J6CronqBgzUCyuYnXg</guid>
+            <pubDate>Fri, 07 Oct 2022 14:05:06 GMT</pubDate>
+            <description><![CDATA[每日听写|10.7]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【国庆特辑】英文歌教唱：Someone Like You]]></title>
+            <link>https://mp.weixin.qq.com/s/8vqu8WfuoCxXMDWmmlJ5IQ</link>
+            <guid>https://mp.weixin.qq.com/s/8vqu8WfuoCxXMDWmmlJ5IQ</guid>
+            <pubDate>Fri, 07 Oct 2022 14:05:06 GMT</pubDate>
+            <description><![CDATA[【国庆特辑】英文歌教唱：Someone Like You]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写|10.5]]></title>
             <link>https://mp.weixin.qq.com/s/q2AjhU8S_I5uLIVRIX4iZw</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/5Ep3A6zMpQ39cHTuRqXZjQ</guid>
             <pubDate>Sun, 17 Jul 2022 13:43:38 GMT</pubDate>
             <description><![CDATA[为你读诗——嫁给幸福]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|7.15]]></title>
-            <link>https://mp.weixin.qq.com/s/JZZaP4hcK0YkH8tRzm5A8A</link>
-            <guid>https://mp.weixin.qq.com/s/JZZaP4hcK0YkH8tRzm5A8A</guid>
-            <pubDate>Fri, 15 Jul 2022 15:30:50 GMT</pubDate>
-            <description><![CDATA[每日一句|7.15]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|7.15]]></title>
-            <link>https://mp.weixin.qq.com/s/YZ-_JnLkqYzRdr93f3wSrQ</link>
-            <guid>https://mp.weixin.qq.com/s/YZ-_JnLkqYzRdr93f3wSrQ</guid>
-            <pubDate>Fri, 15 Jul 2022 15:30:50 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|7.15]]></description>
         </item>
     </channel>
 </rss>
