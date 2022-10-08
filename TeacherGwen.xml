@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 07 Oct 2022 14:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 04:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写10.3-10.7高级汇总]]></title>
+            <link>https://mp.weixin.qq.com/s/sG2fHB7S7V_NyNPAHelgCQ</link>
+            <guid>https://mp.weixin.qq.com/s/sG2fHB7S7V_NyNPAHelgCQ</guid>
+            <pubDate>Sat, 08 Oct 2022 04:48:20 GMT</pubDate>
+            <description><![CDATA[每日听写10.3-10.7高级汇总]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10.8早读 | 为人父母，都会想让孩子有安全感]]></title>
+            <link>https://mp.weixin.qq.com/s/3R8VK5-0VzF1YKlQRA9uIw</link>
+            <guid>https://mp.weixin.qq.com/s/3R8VK5-0VzF1YKlQRA9uIw</guid>
+            <pubDate>Sat, 08 Oct 2022 04:48:20 GMT</pubDate>
+            <description><![CDATA[10.8早读 | 为人父母，都会想让孩子有安全感]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文| B What U Wanna B]]></title>
+            <link>https://mp.weixin.qq.com/s/tqeq0PAob8i-G1WGKoyh0Q</link>
+            <guid>https://mp.weixin.qq.com/s/tqeq0PAob8i-G1WGKoyh0Q</guid>
+            <pubDate>Sat, 08 Oct 2022 04:48:20 GMT</pubDate>
+            <description><![CDATA[听歌学英文| B What U Wanna B]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写|10.7]]></title>
             <link>https://mp.weixin.qq.com/s/CgD5J6CronqBgzUCyuYnXg</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/cZRxQs_AwdEvLlCkpjIswA</guid>
             <pubDate>Sat, 23 Jul 2022 04:13:57 GMT</pubDate>
             <description><![CDATA[听歌学英文| Lonely Warrior 孤勇者]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写飞鸟集|Spirited Away 09]]></title>
-            <link>https://mp.weixin.qq.com/s/fCdp0kI_Bev6PkRNTihN8Q</link>
-            <guid>https://mp.weixin.qq.com/s/fCdp0kI_Bev6PkRNTihN8Q</guid>
-            <pubDate>Sun, 17 Jul 2022 13:43:38 GMT</pubDate>
-            <description><![CDATA[每日听写飞鸟集|Spirited Away 09]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7.17早读 | 我家里的英雄就是我的家人，我们在一起才是真英雄]]></title>
-            <link>https://mp.weixin.qq.com/s/oqMSrReIxMCjeHj5hs-SOw</link>
-            <guid>https://mp.weixin.qq.com/s/oqMSrReIxMCjeHj5hs-SOw</guid>
-            <pubDate>Sun, 17 Jul 2022 13:43:38 GMT</pubDate>
-            <description><![CDATA[7.17早读 | 我家里的英雄就是我的家人，我们在一起才是真英雄]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为你读诗——嫁给幸福]]></title>
-            <link>https://mp.weixin.qq.com/s/5Ep3A6zMpQ39cHTuRqXZjQ</link>
-            <guid>https://mp.weixin.qq.com/s/5Ep3A6zMpQ39cHTuRqXZjQ</guid>
-            <pubDate>Sun, 17 Jul 2022 13:43:38 GMT</pubDate>
-            <description><![CDATA[为你读诗——嫁给幸福]]></description>
         </item>
     </channel>
 </rss>
