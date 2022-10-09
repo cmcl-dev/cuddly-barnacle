@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 08 Oct 2022 04:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 05:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集|The Graduate 07]]></title>
+            <link>https://mp.weixin.qq.com/s/NjF_EfS6gb5vH7HYbb9UNQ</link>
+            <guid>https://mp.weixin.qq.com/s/NjF_EfS6gb5vH7HYbb9UNQ</guid>
+            <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集|The Graduate 07]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10.9早读 | 下定决心，努力去做。不放弃，不被左右，定能成功]]></title>
+            <link>https://mp.weixin.qq.com/s/ntyfQLi5wJ_UCaG1poUezw</link>
+            <guid>https://mp.weixin.qq.com/s/ntyfQLi5wJ_UCaG1poUezw</guid>
+            <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
+            <description><![CDATA[10.9早读 | 下定决心，努力去做。不放弃，不被左右，定能成功]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为你读诗——我爱这土地]]></title>
+            <link>https://mp.weixin.qq.com/s/AmtjgrR8hrtWjZOpK871Jw</link>
+            <guid>https://mp.weixin.qq.com/s/AmtjgrR8hrtWjZOpK871Jw</guid>
+            <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
+            <description><![CDATA[为你读诗——我爱这土地]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写10.3-10.7高级汇总]]></title>
             <link>https://mp.weixin.qq.com/s/sG2fHB7S7V_NyNPAHelgCQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/fv2ojOPEvP9G4P7tQ6II-g</guid>
             <pubDate>Fri, 29 Jul 2022 04:14:36 GMT</pubDate>
             <description><![CDATA[7.29早读 | 海内存知己，天涯若比邻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写7.18-7.22初级汇总]]></title>
-            <link>https://mp.weixin.qq.com/s/vmaar_rbYN6Ykr_Ery7D8w</link>
-            <guid>https://mp.weixin.qq.com/s/vmaar_rbYN6Ykr_Ery7D8w</guid>
-            <pubDate>Sat, 23 Jul 2022 04:13:57 GMT</pubDate>
-            <description><![CDATA[每日听写7.18-7.22初级汇总]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7.23早读 | “教育”是改变世界的最佳方式]]></title>
-            <link>https://mp.weixin.qq.com/s/fNruxvaXxcuBrk7eCj2K6w</link>
-            <guid>https://mp.weixin.qq.com/s/fNruxvaXxcuBrk7eCj2K6w</guid>
-            <pubDate>Sat, 23 Jul 2022 04:13:57 GMT</pubDate>
-            <description><![CDATA[7.23早读 | “教育”是改变世界的最佳方式]]></description>
-        </item>
-        <item>
-            <title><![CDATA[听歌学英文| Lonely Warrior 孤勇者]]></title>
-            <link>https://mp.weixin.qq.com/s/cZRxQs_AwdEvLlCkpjIswA</link>
-            <guid>https://mp.weixin.qq.com/s/cZRxQs_AwdEvLlCkpjIswA</guid>
-            <pubDate>Sat, 23 Jul 2022 04:13:57 GMT</pubDate>
-            <description><![CDATA[听歌学英文| Lonely Warrior 孤勇者]]></description>
         </item>
     </channel>
 </rss>
