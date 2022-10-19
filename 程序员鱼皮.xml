@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Tue, 18 Oct 2022 01:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 01:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[2022 年，前端都在用什么开发？]]></title>
+            <link>https://mp.weixin.qq.com/s/kwYk8Et6ocLQlIrffjt5Ng</link>
+            <guid>https://mp.weixin.qq.com/s/kwYk8Et6ocLQlIrffjt5Ng</guid>
+            <pubDate>Wed, 19 Oct 2022 01:11:19 GMT</pubDate>
+            <description><![CDATA[2022 年，前端都在用什么开发？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[机器学习的“后浪”来了！我们该准备什么？]]></title>
+            <link>https://mp.weixin.qq.com/s/emDHhCn4QTnMDC8t4VS7Bw</link>
+            <guid>https://mp.weixin.qq.com/s/emDHhCn4QTnMDC8t4VS7Bw</guid>
+            <pubDate>Wed, 19 Oct 2022 01:11:19 GMT</pubDate>
+            <description><![CDATA[机器学习的“后浪”来了！我们该准备什么？]]></description>
+        </item>
         <item>
             <title><![CDATA[有http，还要websocket干什么？]]></title>
             <link>https://mp.weixin.qq.com/s/QtHXhW6vtn7_wJG9_itX0A</link>
