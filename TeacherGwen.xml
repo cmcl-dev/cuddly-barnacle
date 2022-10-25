@@ -4,11 +4,39 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 24 Oct 2022 16:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 11:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日一句|10.25]]></title>
+            <link>https://mp.weixin.qq.com/s/F7_5T-W18j6rPguX980vIA</link>
+            <guid>https://mp.weixin.qq.com/s/F7_5T-W18j6rPguX980vIA</guid>
+            <pubDate>Tue, 25 Oct 2022 11:32:36 GMT</pubDate>
+            <description><![CDATA[每日一句|10.25]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们一起神翻译|10.25]]></title>
+            <link>https://mp.weixin.qq.com/s/U_dG3be9dn_GOqNrBf9I5Q</link>
+            <guid>https://mp.weixin.qq.com/s/U_dG3be9dn_GOqNrBf9I5Q</guid>
+            <pubDate>Tue, 25 Oct 2022 11:32:36 GMT</pubDate>
+            <description><![CDATA[我们一起神翻译|10.25]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每日听写|10.25]]></title>
+            <link>https://mp.weixin.qq.com/s/O-Y4Agtc6RYfNeGPpUwOSA</link>
+            <guid>https://mp.weixin.qq.com/s/O-Y4Agtc6RYfNeGPpUwOSA</guid>
+            <pubDate>Tue, 25 Oct 2022 11:32:36 GMT</pubDate>
+            <description><![CDATA[每日听写|10.25]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10.25早读 | 未来不可知，顺其自然吧]]></title>
+            <link>https://mp.weixin.qq.com/s/vz-uBpk1928Zn3hwqo3Tsg</link>
+            <guid>https://mp.weixin.qq.com/s/vz-uBpk1928Zn3hwqo3Tsg</guid>
+            <pubDate>Tue, 25 Oct 2022 11:32:36 GMT</pubDate>
+            <description><![CDATA[10.25早读 | 未来不可知，顺其自然吧]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|10.24]]></title>
             <link>https://mp.weixin.qq.com/s/e3--wkGot8OlaLkIKmJ51Q</link>
@@ -680,34 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/juUJ_EmFuLZRZqqpIHHdVg</guid>
             <pubDate>Sun, 07 Aug 2022 13:52:16 GMT</pubDate>
             <description><![CDATA[为你读诗——不要温和地走进那个良夜]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|8.3]]></title>
-            <link>https://mp.weixin.qq.com/s/ZMf8uO1ZZ8kyUOCBhfvZIA</link>
-            <guid>https://mp.weixin.qq.com/s/ZMf8uO1ZZ8kyUOCBhfvZIA</guid>
-            <pubDate>Wed, 03 Aug 2022 04:10:10 GMT</pubDate>
-            <description><![CDATA[每日一句|8.3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|8.3]]></title>
-            <link>https://mp.weixin.qq.com/s/L5sjNBoe-Fu8Det5bWU-tg</link>
-            <guid>https://mp.weixin.qq.com/s/L5sjNBoe-Fu8Det5bWU-tg</guid>
-            <pubDate>Wed, 03 Aug 2022 04:10:10 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|8.3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|8.3]]></title>
-            <link>https://mp.weixin.qq.com/s/eT-7mj0l1c-DMGCxg83dJg</link>
-            <guid>https://mp.weixin.qq.com/s/eT-7mj0l1c-DMGCxg83dJg</guid>
-            <pubDate>Wed, 03 Aug 2022 04:10:10 GMT</pubDate>
-            <description><![CDATA[每日听写|8.3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“成功碾压”用英文怎么说？]]></title>
-            <link>https://mp.weixin.qq.com/s/eZOASPvkyzU_pO-U94jIVw</link>
-            <guid>https://mp.weixin.qq.com/s/eZOASPvkyzU_pO-U94jIVw</guid>
-            <pubDate>Wed, 03 Aug 2022 04:10:10 GMT</pubDate>
-            <description><![CDATA[“成功碾压”用英文怎么说？]]></description>
         </item>
     </channel>
 </rss>
