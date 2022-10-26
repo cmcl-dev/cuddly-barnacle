@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 13 Oct 2022 14:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 15:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[我何尝不想成为一个环保的装机靓仔！]]></title>
+            <link>https://mp.weixin.qq.com/s/Er0GHWjg1jm4t6lKdQ8ccQ</link>
+            <guid>https://mp.weixin.qq.com/s/Er0GHWjg1jm4t6lKdQ8ccQ</guid>
+            <pubDate>Wed, 26 Oct 2022 15:02:14 GMT</pubDate>
+            <description><![CDATA[我何尝不想成为一个环保的装机靓仔！]]></description>
+        </item>
         <item>
             <title><![CDATA[2017 年就开始写的《电脑配置挑选指南》来了]]></title>
             <link>https://mp.weixin.qq.com/s/NjvZW4PHfiVu0IUwkuxcPQ</link>
@@ -721,13 +728,6 @@
             <guid>https://mp.weixin.qq.com/s/Db-O4OT-HMk2Zt0anqDDMw</guid>
             <pubDate>Wed, 03 Nov 2021 08:01:43 GMT</pubDate>
             <description><![CDATA[速度比不了 Chrome? 94 版本 Firefox 绝不答应！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9 分钟搞懂考驾照的所有问题，包括潜规则]]></title>
-            <link>https://mp.weixin.qq.com/s/cQ1I6fGwHzj1xT1A4zQkuw</link>
-            <guid>https://mp.weixin.qq.com/s/cQ1I6fGwHzj1xT1A4zQkuw</guid>
-            <pubDate>Wed, 27 Oct 2021 06:02:00 GMT</pubDate>
-            <description><![CDATA[9 分钟搞懂考驾照的所有问题，包括潜规则]]></description>
         </item>
     </channel>
 </rss>
