@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 28 Oct 2022 01:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 01:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[这些开发好习惯，让你更优秀！]]></title>
+            <link>https://mp.weixin.qq.com/s/bJR2GN3bayuAB2waEt3NFA</link>
+            <guid>https://mp.weixin.qq.com/s/bJR2GN3bayuAB2waEt3NFA</guid>
+            <pubDate>Sat, 29 Oct 2022 01:12:30 GMT</pubDate>
+            <description><![CDATA[这些开发好习惯，让你更优秀！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用 Python 写爬虫 接私活，太赚了！]]></title>
+            <link>https://mp.weixin.qq.com/s/KbqySKLJzp-KGxW0m593EQ</link>
+            <guid>https://mp.weixin.qq.com/s/KbqySKLJzp-KGxW0m593EQ</guid>
+            <pubDate>Sat, 29 Oct 2022 01:12:30 GMT</pubDate>
+            <description><![CDATA[用 Python 写爬虫 接私活，太赚了！]]></description>
+        </item>
         <item>
             <title><![CDATA[误区：UDP 就一定比 TCP 快？]]></title>
             <link>https://mp.weixin.qq.com/s/zd02ZYtEMpHPCjOElqm71w</link>
