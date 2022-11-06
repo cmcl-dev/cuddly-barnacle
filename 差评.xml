@@ -4,11 +4,18 @@
         <title>差评</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 05 Nov 2022 16:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 12:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>差评</copyright>
+        <item>
+            <title><![CDATA[当年没法通关小霸王的游戏？可能因为你玩了盗版。]]></title>
+            <link>https://mp.weixin.qq.com/s/pC4F-TTCAUMm9tcUeyQ4Pw</link>
+            <guid>https://mp.weixin.qq.com/s/pC4F-TTCAUMm9tcUeyQ4Pw</guid>
+            <pubDate>Sun, 06 Nov 2022 12:22:46 GMT</pubDate>
+            <description><![CDATA[当年没法通关小霸王的游戏？可能因为你玩了盗版。]]></description>
+        </item>
         <item>
             <title><![CDATA[聊一聊：你怎么看待目前的可穿戴智能设备？]]></title>
             <link>https://mp.weixin.qq.com/s/TWh7IL8JUDDtKirD0HdIDg</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/dX_GrTUZDppVf5QNyjKd7g</guid>
             <pubDate>Fri, 21 Oct 2022 01:10:28 GMT</pubDate>
             <description><![CDATA[把十几个AI工具做进一个软件，这个工具箱太香了。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[13代i5暴打12代i9？憋屈太久的牙膏厂杀疯了。。。]]></title>
-            <link>https://mp.weixin.qq.com/s/pwJbQniLqB7He69-iRSwlw</link>
-            <guid>https://mp.weixin.qq.com/s/pwJbQniLqB7He69-iRSwlw</guid>
-            <pubDate>Fri, 21 Oct 2022 01:10:28 GMT</pubDate>
-            <description><![CDATA[13代i5暴打12代i9？憋屈太久的牙膏厂杀疯了。。。]]></description>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 28 Oct 2022 15:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集|Front of the class 02]]></title>
+            <link>https://mp.weixin.qq.com/s/FE18TkS7L1yzOJIiQsW7Jg</link>
+            <guid>https://mp.weixin.qq.com/s/FE18TkS7L1yzOJIiQsW7Jg</guid>
+            <pubDate>Sun, 06 Nov 2022 03:16:04 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集|Front of the class 02]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11.06早读 | 我不需等到完美的那一刻，我可以用我自己的方式去做]]></title>
+            <link>https://mp.weixin.qq.com/s/CzmlijIreLj68bSZQR4RVg</link>
+            <guid>https://mp.weixin.qq.com/s/CzmlijIreLj68bSZQR4RVg</guid>
+            <pubDate>Sun, 06 Nov 2022 03:16:04 GMT</pubDate>
+            <description><![CDATA[11.06早读 | 我不需等到完美的那一刻，我可以用我自己的方式去做]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为你读诗——雪夜林畔小驻]]></title>
+            <link>https://mp.weixin.qq.com/s/HIdCmqaLKCSJC4Usv026WQ</link>
+            <guid>https://mp.weixin.qq.com/s/HIdCmqaLKCSJC4Usv026WQ</guid>
+            <pubDate>Sun, 06 Nov 2022 03:16:04 GMT</pubDate>
+            <description><![CDATA[为你读诗——雪夜林畔小驻]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|10.28]]></title>
             <link>https://mp.weixin.qq.com/s/8Ib_WzNhTc12HWFnL0P9JQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/H3UFfKw_optb4v9645MYsw</guid>
             <pubDate>Tue, 16 Aug 2022 04:11:43 GMT</pubDate>
             <description><![CDATA[我们一起神翻译|8.16]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|8.16]]></title>
-            <link>https://mp.weixin.qq.com/s/0_O6LtiuJqzY4ju4JyzymQ</link>
-            <guid>https://mp.weixin.qq.com/s/0_O6LtiuJqzY4ju4JyzymQ</guid>
-            <pubDate>Tue, 16 Aug 2022 04:11:43 GMT</pubDate>
-            <description><![CDATA[每日听写|8.16]]></description>
-        </item>
-        <item>
-            <title><![CDATA[8.16早读 | 生活怎会一帆风顺？有起有落才是生活]]></title>
-            <link>https://mp.weixin.qq.com/s/5qQXEFF_l1LTxLJ5BWcOvw</link>
-            <guid>https://mp.weixin.qq.com/s/5qQXEFF_l1LTxLJ5BWcOvw</guid>
-            <pubDate>Tue, 16 Aug 2022 04:11:43 GMT</pubDate>
-            <description><![CDATA[8.16早读 | 生活怎会一帆风顺？有起有落才是生活]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写8.8-8.12初级汇总]]></title>
-            <link>https://mp.weixin.qq.com/s/hQoBs2CtDxoltiGrvjKCgQ</link>
-            <guid>https://mp.weixin.qq.com/s/hQoBs2CtDxoltiGrvjKCgQ</guid>
-            <pubDate>Sat, 13 Aug 2022 12:55:13 GMT</pubDate>
-            <description><![CDATA[每日听写8.8-8.12初级汇总]]></description>
         </item>
     </channel>
 </rss>
