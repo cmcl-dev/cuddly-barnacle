@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 13 Nov 2022 02:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 01:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[乱打日志的男孩运气怎么样我不知道，加班肯定很多！]]></title>
+            <link>https://mp.weixin.qq.com/s/s9qxk-eJWsvYVR55wddw5A</link>
+            <guid>https://mp.weixin.qq.com/s/s9qxk-eJWsvYVR55wddw5A</guid>
+            <pubDate>Mon, 14 Nov 2022 01:08:40 GMT</pubDate>
+            <description><![CDATA[乱打日志的男孩运气怎么样我不知道，加班肯定很多！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比Linus更厉害的程序员，这家伙一定是穿越回来的！]]></title>
+            <link>https://mp.weixin.qq.com/s/ibRNvz_IhxPWe1gS3DWUrw</link>
+            <guid>https://mp.weixin.qq.com/s/ibRNvz_IhxPWe1gS3DWUrw</guid>
+            <pubDate>Mon, 14 Nov 2022 01:08:40 GMT</pubDate>
+            <description><![CDATA[比Linus更厉害的程序员，这家伙一定是穿越回来的！]]></description>
+        </item>
         <item>
             <title><![CDATA[一道刚遇到的面试题，面试官说答不出正常]]></title>
             <link>https://mp.weixin.qq.com/s/fsIU6tm1QN3ESUBSKAQVUw</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/QvLbSPOdbDgq_b8Wz7sG4A</guid>
             <pubDate>Mon, 25 Apr 2022 10:39:55 GMT</pubDate>
             <description><![CDATA[我最近在用的一款神器，功能多到炸！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么它能成为互联网大厂最吃香的岗位？]]></title>
-            <link>https://mp.weixin.qq.com/s/cWYZ-SPGoizM5xkpAk_5eQ</link>
-            <guid>https://mp.weixin.qq.com/s/cWYZ-SPGoizM5xkpAk_5eQ</guid>
-            <pubDate>Fri, 22 Apr 2022 08:00:14 GMT</pubDate>
-            <description><![CDATA[为什么它能成为互联网大厂最吃香的岗位？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[几行代码，竟然就能做个聊天室！]]></title>
-            <link>https://mp.weixin.qq.com/s/tf-N2ZF_Kpray4KJBClOpg</link>
-            <guid>https://mp.weixin.qq.com/s/tf-N2ZF_Kpray4KJBClOpg</guid>
-            <pubDate>Fri, 22 Apr 2022 08:00:14 GMT</pubDate>
-            <description><![CDATA[几行代码，竟然就能做个聊天室！]]></description>
         </item>
     </channel>
 </rss>
