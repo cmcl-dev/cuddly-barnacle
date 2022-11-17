@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 16 Nov 2022 01:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[突然好奇，韩国技术面试卷不卷？]]></title>
+            <link>https://mp.weixin.qq.com/s/DhzHvWk0AQ2LsqQ8fEkeTA</link>
+            <guid>https://mp.weixin.qq.com/s/DhzHvWk0AQ2LsqQ8fEkeTA</guid>
+            <pubDate>Thu, 17 Nov 2022 01:09:23 GMT</pubDate>
+            <description><![CDATA[突然好奇，韩国技术面试卷不卷？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[准备跳槽的可以看看。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/JHwyx4rprxY_6axvmE-xqA</link>
+            <guid>https://mp.weixin.qq.com/s/JHwyx4rprxY_6axvmE-xqA</guid>
+            <pubDate>Thu, 17 Nov 2022 01:09:23 GMT</pubDate>
+            <description><![CDATA[准备跳槽的可以看看。。。]]></description>
+        </item>
         <item>
             <title><![CDATA[我们搞了件大事！]]></title>
             <link>https://mp.weixin.qq.com/s/exJMlvIgeqDeOmej2XrZ3w</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/P7odF1arZ1siCKvhwp6fqA</guid>
             <pubDate>Mon, 09 May 2022 02:28:02 GMT</pubDate>
             <description><![CDATA[GitHub这5个骚操作，99%的人不知道！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[编程导航，火了！]]></title>
-            <link>https://mp.weixin.qq.com/s/hLEunxRLTkqcO89jqKkgzQ</link>
-            <guid>https://mp.weixin.qq.com/s/hLEunxRLTkqcO89jqKkgzQ</guid>
-            <pubDate>Tue, 03 May 2022 03:26:17 GMT</pubDate>
-            <description><![CDATA[编程导航，火了！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对不起，我的面试刷题网复活了！]]></title>
-            <link>https://mp.weixin.qq.com/s/SqSuGfvjC_VmzgTs-d99LA</link>
-            <guid>https://mp.weixin.qq.com/s/SqSuGfvjC_VmzgTs-d99LA</guid>
-            <pubDate>Sun, 01 May 2022 02:09:55 GMT</pubDate>
-            <description><![CDATA[对不起，我的面试刷题网复活了！]]></description>
         </item>
     </channel>
 </rss>
