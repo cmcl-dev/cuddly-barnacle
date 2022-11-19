@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 01:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[自我介绍，千万别来虚的！]]></title>
+            <link>https://mp.weixin.qq.com/s/q4JXAtBjCmEaUDQ_tj_IJA</link>
+            <guid>https://mp.weixin.qq.com/s/q4JXAtBjCmEaUDQ_tj_IJA</guid>
+            <pubDate>Sat, 19 Nov 2022 01:10:08 GMT</pubDate>
+            <description><![CDATA[自我介绍，千万别来虚的！]]></description>
+        </item>
         <item>
             <title><![CDATA[同事吐槽我的接口性能差，原来它是真凶！]]></title>
             <link>https://mp.weixin.qq.com/s/g2NsLkclSTeUQoeDRER3Qg</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/pdYhEbRj-0pJv3Kvvz1pBw</guid>
             <pubDate>Thu, 12 May 2022 14:44:01 GMT</pubDate>
             <description><![CDATA[大厂必考的10道计网面试题解，速通！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个前端实用技巧，却被大多人忽略了！]]></title>
-            <link>https://mp.weixin.qq.com/s/aGaupCpBwB4QYycn94Y9jQ</link>
-            <guid>https://mp.weixin.qq.com/s/aGaupCpBwB4QYycn94Y9jQ</guid>
-            <pubDate>Tue, 10 May 2022 14:08:18 GMT</pubDate>
-            <description><![CDATA[一个前端实用技巧，却被大多人忽略了！]]></description>
         </item>
     </channel>
 </rss>
