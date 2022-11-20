@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 01:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[马斯克终于认错：裁掉他们是我最大的错误！]]></title>
+            <link>https://mp.weixin.qq.com/s/kP5kiOaJS5Yp7DgiuWN8IQ</link>
+            <guid>https://mp.weixin.qq.com/s/kP5kiOaJS5Yp7DgiuWN8IQ</guid>
+            <pubDate>Sun, 20 Nov 2022 01:09:29 GMT</pubDate>
+            <description><![CDATA[马斯克终于认错：裁掉他们是我最大的错误！]]></description>
+        </item>
         <item>
             <title><![CDATA[自我介绍，千万别来虚的！]]></title>
             <link>https://mp.weixin.qq.com/s/q4JXAtBjCmEaUDQ_tj_IJA</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/vHDNyDEOiqvVrs9irBExxg</guid>
             <pubDate>Sat, 14 May 2022 04:51:02 GMT</pubDate>
             <description><![CDATA[我的 IP 归属地，是咋被挖出来的？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大厂必考的10道计网面试题解，速通！]]></title>
-            <link>https://mp.weixin.qq.com/s/pdYhEbRj-0pJv3Kvvz1pBw</link>
-            <guid>https://mp.weixin.qq.com/s/pdYhEbRj-0pJv3Kvvz1pBw</guid>
-            <pubDate>Thu, 12 May 2022 14:44:01 GMT</pubDate>
-            <description><![CDATA[大厂必考的10道计网面试题解，速通！]]></description>
         </item>
     </channel>
 </rss>
