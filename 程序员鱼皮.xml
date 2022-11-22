@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 20 Nov 2022 01:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 01:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[为什么B站的弹幕可以不挡人物？]]></title>
+            <link>https://mp.weixin.qq.com/s/N21pKxLqmqiBzew-VCLm7w</link>
+            <guid>https://mp.weixin.qq.com/s/N21pKxLqmqiBzew-VCLm7w</guid>
+            <pubDate>Tue, 22 Nov 2022 01:10:24 GMT</pubDate>
+            <description><![CDATA[为什么B站的弹幕可以不挡人物？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[程序员接私活的门道，拿捏了！]]></title>
+            <link>https://mp.weixin.qq.com/s/AyFfPH35etrDzYAAY5XU_w</link>
+            <guid>https://mp.weixin.qq.com/s/AyFfPH35etrDzYAAY5XU_w</guid>
+            <pubDate>Tue, 22 Nov 2022 01:10:24 GMT</pubDate>
+            <description><![CDATA[程序员接私活的门道，拿捏了！]]></description>
+        </item>
         <item>
             <title><![CDATA[马斯克终于认错：裁掉他们是我最大的错误！]]></title>
             <link>https://mp.weixin.qq.com/s/kP5kiOaJS5Yp7DgiuWN8IQ</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/qCsTM2eNz7Fi_qmxFSLQTg</guid>
             <pubDate>Mon, 22 Aug 2022 16:08:05 GMT</pubDate>
             <description><![CDATA[IDEA 防沉迷插件刷爆，谁再卷就给他装上 !]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用了 6 年，告诉你怎么学好 Java]]></title>
-            <link>https://mp.weixin.qq.com/s/npB0Vumz2v5bAaeH9eGMUQ</link>
-            <guid>https://mp.weixin.qq.com/s/npB0Vumz2v5bAaeH9eGMUQ</guid>
-            <pubDate>Thu, 18 Aug 2022 12:21:44 GMT</pubDate>
-            <description><![CDATA[我用了 6 年，告诉你怎么学好 Java]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的 IP 归属地，是咋被挖出来的？]]></title>
-            <link>https://mp.weixin.qq.com/s/vHDNyDEOiqvVrs9irBExxg</link>
-            <guid>https://mp.weixin.qq.com/s/vHDNyDEOiqvVrs9irBExxg</guid>
-            <pubDate>Sat, 14 May 2022 04:51:02 GMT</pubDate>
-            <description><![CDATA[我的 IP 归属地，是咋被挖出来的？]]></description>
         </item>
     </channel>
 </rss>
