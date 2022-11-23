@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Tue, 22 Nov 2022 01:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[我的新项目来啦！]]></title>
+            <link>https://mp.weixin.qq.com/s/pT45vFrW5X4Z9tRrH5srEw</link>
+            <guid>https://mp.weixin.qq.com/s/pT45vFrW5X4Z9tRrH5srEw</guid>
+            <pubDate>Wed, 23 Nov 2022 01:10:02 GMT</pubDate>
+            <description><![CDATA[我的新项目来啦！]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么B站的弹幕可以不挡人物？]]></title>
             <link>https://mp.weixin.qq.com/s/N21pKxLqmqiBzew-VCLm7w</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/3wKSa1pxuBjaUR0HhBMJuQ</guid>
             <pubDate>Mon, 22 Aug 2022 16:08:05 GMT</pubDate>
             <description><![CDATA[缓存穿透该怎么解决? 回懵面试官]]></description>
-        </item>
-        <item>
-            <title><![CDATA[IDEA 防沉迷插件刷爆，谁再卷就给他装上 !]]></title>
-            <link>https://mp.weixin.qq.com/s/qCsTM2eNz7Fi_qmxFSLQTg</link>
-            <guid>https://mp.weixin.qq.com/s/qCsTM2eNz7Fi_qmxFSLQTg</guid>
-            <pubDate>Mon, 22 Aug 2022 16:08:05 GMT</pubDate>
-            <description><![CDATA[IDEA 防沉迷插件刷爆，谁再卷就给他装上 !]]></description>
         </item>
     </channel>
 </rss>
