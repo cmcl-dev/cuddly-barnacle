@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[学会这招，一天做一个项目！]]></title>
+            <link>https://mp.weixin.qq.com/s/6VXO2mfFafJyY0JjRVl8kg</link>
+            <guid>https://mp.weixin.qq.com/s/6VXO2mfFafJyY0JjRVl8kg</guid>
+            <pubDate>Thu, 24 Nov 2022 01:10:48 GMT</pubDate>
+            <description><![CDATA[学会这招，一天做一个项目！]]></description>
+        </item>
         <item>
             <title><![CDATA[我的新项目来啦！]]></title>
             <link>https://mp.weixin.qq.com/s/pT45vFrW5X4Z9tRrH5srEw</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/RQz28V1iZB0REP0mN0DNnA</guid>
             <pubDate>Tue, 23 Aug 2022 16:09:27 GMT</pubDate>
             <description><![CDATA[服了！JAVA 中简单的 for 循环这么坑。。。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[缓存穿透该怎么解决? 回懵面试官]]></title>
-            <link>https://mp.weixin.qq.com/s/3wKSa1pxuBjaUR0HhBMJuQ</link>
-            <guid>https://mp.weixin.qq.com/s/3wKSa1pxuBjaUR0HhBMJuQ</guid>
-            <pubDate>Mon, 22 Aug 2022 16:08:05 GMT</pubDate>
-            <description><![CDATA[缓存穿透该怎么解决? 回懵面试官]]></description>
         </item>
     </channel>
 </rss>
