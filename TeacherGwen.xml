@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 04:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写 |11.21-11.25中级汇总]]></title>
+            <link>https://mp.weixin.qq.com/s/g8_bAMxoe0NildAbyFKyGw</link>
+            <guid>https://mp.weixin.qq.com/s/g8_bAMxoe0NildAbyFKyGw</guid>
+            <pubDate>Sat, 26 Nov 2022 04:04:57 GMT</pubDate>
+            <description><![CDATA[每日听写 |11.21-11.25中级汇总]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11.26早读 | 拥抱苦难的洗礼]]></title>
+            <link>https://mp.weixin.qq.com/s/HY1N0-eK1nZqaTQl0jR-PA</link>
+            <guid>https://mp.weixin.qq.com/s/HY1N0-eK1nZqaTQl0jR-PA</guid>
+            <pubDate>Sat, 26 Nov 2022 04:04:57 GMT</pubDate>
+            <description><![CDATA[11.26早读 | 拥抱苦难的洗礼]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文 | Waka Waka]]></title>
+            <link>https://mp.weixin.qq.com/s/y9-XhUn32qA-ypbjpoxRrw</link>
+            <guid>https://mp.weixin.qq.com/s/y9-XhUn32qA-ypbjpoxRrw</guid>
+            <pubDate>Sat, 26 Nov 2022 04:04:57 GMT</pubDate>
+            <description><![CDATA[听歌学英文 | Waka Waka]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|11.25]]></title>
             <link>https://mp.weixin.qq.com/s/BKD9VxWwo8mrDb826Zbo9Q</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/CgcnC-_waG5De7E0z3T3gg</guid>
             <pubDate>Tue, 30 Aug 2022 04:09:11 GMT</pubDate>
             <description><![CDATA[我们一起神翻译|8.30]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|8.30]]></title>
-            <link>https://mp.weixin.qq.com/s/LwQkmxIX0r5C1lrcSkmY0g</link>
-            <guid>https://mp.weixin.qq.com/s/LwQkmxIX0r5C1lrcSkmY0g</guid>
-            <pubDate>Tue, 30 Aug 2022 04:09:11 GMT</pubDate>
-            <description><![CDATA[每日听写|8.30]]></description>
-        </item>
-        <item>
-            <title><![CDATA[8.30早读 | 请回到卡萨布兰卡找我吧！]]></title>
-            <link>https://mp.weixin.qq.com/s/ZnlzywCXxVp0iPiLF9O4Cw</link>
-            <guid>https://mp.weixin.qq.com/s/ZnlzywCXxVp0iPiLF9O4Cw</guid>
-            <pubDate>Tue, 30 Aug 2022 04:09:11 GMT</pubDate>
-            <description><![CDATA[8.30早读 | 请回到卡萨布兰卡找我吧！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[free的意思只是“免费的”吗？]]></title>
-            <link>https://mp.weixin.qq.com/s/J6i61t1XaJKilcxLcEphfw</link>
-            <guid>https://mp.weixin.qq.com/s/J6i61t1XaJKilcxLcEphfw</guid>
-            <pubDate>Wed, 24 Aug 2022 04:08:00 GMT</pubDate>
-            <description><![CDATA[free的意思只是“免费的”吗？]]></description>
         </item>
     </channel>
 </rss>

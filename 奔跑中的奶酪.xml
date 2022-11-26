@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Tue, 15 Nov 2022 07:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 09:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[买不起贵的电脑，那么这篇文章要好好看！]]></title>
+            <link>https://mp.weixin.qq.com/s/DOcLYXh3jRL3g4KsJoJHTg</link>
+            <guid>https://mp.weixin.qq.com/s/DOcLYXh3jRL3g4KsJoJHTg</guid>
+            <pubDate>Sat, 26 Nov 2022 09:01:56 GMT</pubDate>
+            <description><![CDATA[买不起贵的电脑，那么这篇文章要好好看！]]></description>
+        </item>
         <item>
             <title><![CDATA[242万安装，用一串代码下载资源，了解一下？]]></title>
             <link>https://mp.weixin.qq.com/s/bJbsdMzJrgSznl9jwHjxaQ</link>
@@ -729,13 +736,6 @@ PS：复制到浏览器打开！ 👌]]></description>
             <guid>https://mp.weixin.qq.com/s/k1v6N4HQJy5l_5lNRaMvLA</guid>
             <pubDate>Wed, 17 Nov 2021 08:01:49 GMT</pubDate>
             <description><![CDATA[Chrome 又更新，而且总能搞出点新花样！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[突然发现得考个研究生了！]]></title>
-            <link>https://mp.weixin.qq.com/s/XDXMb0dCnDGz4fp_WeqZrw</link>
-            <guid>https://mp.weixin.qq.com/s/XDXMb0dCnDGz4fp_WeqZrw</guid>
-            <pubDate>Fri, 12 Nov 2021 13:37:42 GMT</pubDate>
-            <description><![CDATA[突然发现得考个研究生了！]]></description>
         </item>
     </channel>
 </rss>
