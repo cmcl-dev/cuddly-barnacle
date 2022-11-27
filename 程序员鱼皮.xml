@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 26 Nov 2022 01:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 01:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[程序员必知，招聘黑话大全！]]></title>
+            <link>https://mp.weixin.qq.com/s/yR-SdLFyS3Rebaf1PvSNog</link>
+            <guid>https://mp.weixin.qq.com/s/yR-SdLFyS3Rebaf1PvSNog</guid>
+            <pubDate>Sun, 27 Nov 2022 01:11:36 GMT</pubDate>
+            <description><![CDATA[程序员必知，招聘黑话大全！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[入职东北国企做程序员一个月，感受如何？]]></title>
+            <link>https://mp.weixin.qq.com/s/yMhQWFNhDeMJzVNK5T8_jA</link>
+            <guid>https://mp.weixin.qq.com/s/yMhQWFNhDeMJzVNK5T8_jA</guid>
+            <pubDate>Sun, 27 Nov 2022 01:11:36 GMT</pubDate>
+            <description><![CDATA[入职东北国企做程序员一个月，感受如何？]]></description>
+        </item>
         <item>
             <title><![CDATA[我说MySQL单表不超过两千万行，面试官让我回去等通知？]]></title>
             <link>https://mp.weixin.qq.com/s/vXS5BxcxqiGqPfxxyiliAw</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/cfulruhxVMacgLw5tJBCdQ</guid>
             <pubDate>Mon, 29 Aug 2022 01:09:35 GMT</pubDate>
             <description><![CDATA[HTTP/3 ，它来了！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漫画 | 重磅！七国集团决定制裁Go语言！]]></title>
-            <link>https://mp.weixin.qq.com/s/chj8Vq4hv_2in60OPglZDw</link>
-            <guid>https://mp.weixin.qq.com/s/chj8Vq4hv_2in60OPglZDw</guid>
-            <pubDate>Mon, 29 Aug 2022 01:09:35 GMT</pubDate>
-            <description><![CDATA[漫画 | 重磅！七国集团决定制裁Go语言！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们学并发时，到底在学什么？]]></title>
-            <link>https://mp.weixin.qq.com/s/LQP781w0_n3VG5-ehtmuhw</link>
-            <guid>https://mp.weixin.qq.com/s/LQP781w0_n3VG5-ehtmuhw</guid>
-            <pubDate>Sat, 27 Aug 2022 16:09:16 GMT</pubDate>
-            <description><![CDATA[我们学并发时，到底在学什么？]]></description>
         </item>
     </channel>
 </rss>

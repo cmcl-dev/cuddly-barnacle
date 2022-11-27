@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 26 Nov 2022 04:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 04:05:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集 | Front of the class 05]]></title>
+            <link>https://mp.weixin.qq.com/s/Bq5m57PXpzPKHy8KpM_-Cg</link>
+            <guid>https://mp.weixin.qq.com/s/Bq5m57PXpzPKHy8KpM_-Cg</guid>
+            <pubDate>Sun, 27 Nov 2022 04:04:53 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集 | Front of the class 05]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11.27早读 | 爱即是牺牲]]></title>
+            <link>https://mp.weixin.qq.com/s/tbci1ub4VrJoGfBeqosHzA</link>
+            <guid>https://mp.weixin.qq.com/s/tbci1ub4VrJoGfBeqosHzA</guid>
+            <pubDate>Sun, 27 Nov 2022 04:04:53 GMT</pubDate>
+            <description><![CDATA[11.27早读 | 爱即是牺牲]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为你读诗 |《等你下课》英文版]]></title>
+            <link>https://mp.weixin.qq.com/s/K1q6ox9dkUjuwS0MBUVN0g</link>
+            <guid>https://mp.weixin.qq.com/s/K1q6ox9dkUjuwS0MBUVN0g</guid>
+            <pubDate>Sun, 27 Nov 2022 04:04:53 GMT</pubDate>
+            <description><![CDATA[为你读诗 |《等你下课》英文版]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写 |11.21-11.25中级汇总]]></title>
             <link>https://mp.weixin.qq.com/s/g8_bAMxoe0NildAbyFKyGw</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/eMO6Hf01FYpekw1zzD4GlQ</guid>
             <pubDate>Fri, 02 Sep 2022 04:11:28 GMT</pubDate>
             <description><![CDATA[如何用英文分手？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9.2早读 | 人人都是月亮，都有不曾向别人展示的阴暗面]]></title>
-            <link>https://mp.weixin.qq.com/s/Qhhr4Gf_Wn5hsnH1nYMMBA</link>
-            <guid>https://mp.weixin.qq.com/s/Qhhr4Gf_Wn5hsnH1nYMMBA</guid>
-            <pubDate>Fri, 02 Sep 2022 04:11:28 GMT</pubDate>
-            <description><![CDATA[9.2早读 | 人人都是月亮，都有不曾向别人展示的阴暗面]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|8.30]]></title>
-            <link>https://mp.weixin.qq.com/s/3p7WxIlH22P75V70spjR_g</link>
-            <guid>https://mp.weixin.qq.com/s/3p7WxIlH22P75V70spjR_g</guid>
-            <pubDate>Tue, 30 Aug 2022 04:09:11 GMT</pubDate>
-            <description><![CDATA[每日一句|8.30]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|8.30]]></title>
-            <link>https://mp.weixin.qq.com/s/CgcnC-_waG5De7E0z3T3gg</link>
-            <guid>https://mp.weixin.qq.com/s/CgcnC-_waG5De7E0z3T3gg</guid>
-            <pubDate>Tue, 30 Aug 2022 04:09:11 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|8.30]]></description>
         </item>
     </channel>
 </rss>
