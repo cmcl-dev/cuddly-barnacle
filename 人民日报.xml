@@ -4,11 +4,25 @@
         <title>人民日报</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 27 Nov 2022 15:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 13:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>人民日报</copyright>
+        <item>
+            <title><![CDATA[关于疫情防控措施，多地最新通报]]></title>
+            <link>https://mp.weixin.qq.com/s/adXXY2_TxZl6kUiNCm9yzg</link>
+            <guid>https://mp.weixin.qq.com/s/adXXY2_TxZl6kUiNCm9yzg</guid>
+            <pubDate>Mon, 28 Nov 2022 13:41:21 GMT</pubDate>
+            <description><![CDATA[关于疫情防控措施，多地最新通报]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德国险平西班牙，“死亡之组”出线形势扑朔迷离]]></title>
+            <link>https://mp.weixin.qq.com/s/KMQDNXQXs5qf9xbZU36ajA</link>
+            <guid>https://mp.weixin.qq.com/s/KMQDNXQXs5qf9xbZU36ajA</guid>
+            <pubDate>Mon, 28 Nov 2022 04:02:55 GMT</pubDate>
+            <description><![CDATA[德国险平西班牙，“死亡之组”出线形势扑朔迷离]]></description>
+        </item>
         <item>
             <title><![CDATA[【夜读】坚持做这5件事，让自己成为一个自律的人]]></title>
             <link>https://mp.weixin.qq.com/s/ph9l52Z0Hi81lcNWg0WnxA</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/x8c0diLX3wZV7P6ELGBGXQ</guid>
             <pubDate>Fri, 11 Nov 2022 02:12:38 GMT</pubDate>
             <description><![CDATA[今天是你的11.11 ！生日快乐，人民空军]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来了！新闻早班车]]></title>
-            <link>https://mp.weixin.qq.com/s/JVjax5zsv2Fmcaceiu7SZA</link>
-            <guid>https://mp.weixin.qq.com/s/JVjax5zsv2Fmcaceiu7SZA</guid>
-            <pubDate>Thu, 10 Nov 2022 22:20:49 GMT</pubDate>
-            <description><![CDATA[来了！新闻早班车]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【夜读】遇事最有水平的处理方式]]></title>
-            <link>https://mp.weixin.qq.com/s/fG9i1bgCaWTDYpjlze4ckg</link>
-            <guid>https://mp.weixin.qq.com/s/fG9i1bgCaWTDYpjlze4ckg</guid>
-            <pubDate>Thu, 10 Nov 2022 21:21:22 GMT</pubDate>
-            <description><![CDATA[【夜读】遇事最有水平的处理方式]]></description>
         </item>
     </channel>
 </rss>
