@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 03 Dec 2022 04:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 04:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集 | Front of the class 06]]></title>
+            <link>https://mp.weixin.qq.com/s/HYoNC6KdeQ4eACaaVS-7ag</link>
+            <guid>https://mp.weixin.qq.com/s/HYoNC6KdeQ4eACaaVS-7ag</guid>
+            <pubDate>Sun, 04 Dec 2022 04:05:29 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集 | Front of the class 06]]></description>
+        </item>
+        <item>
+            <title><![CDATA[12.4早读 | 改变的力量]]></title>
+            <link>https://mp.weixin.qq.com/s/1B4dG1EjjyOzqVoF7J7D-Q</link>
+            <guid>https://mp.weixin.qq.com/s/1B4dG1EjjyOzqVoF7J7D-Q</guid>
+            <pubDate>Sun, 04 Dec 2022 04:05:29 GMT</pubDate>
+            <description><![CDATA[12.4早读 | 改变的力量]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为你读诗——再别康桥]]></title>
+            <link>https://mp.weixin.qq.com/s/GZPowAilbI4xdDAtoCDb_g</link>
+            <guid>https://mp.weixin.qq.com/s/GZPowAilbI4xdDAtoCDb_g</guid>
+            <pubDate>Sun, 04 Dec 2022 04:05:29 GMT</pubDate>
+            <description><![CDATA[为你读诗——再别康桥]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写11.28-12.2初级汇总]]></title>
             <link>https://mp.weixin.qq.com/s/b2laeA9QLWcF_s454q9DPQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/9MbSLRSTZSgl0ZmUPwN7QQ</guid>
             <pubDate>Wed, 07 Sep 2022 04:08:38 GMT</pubDate>
             <description><![CDATA[9.7早读 | 蒹葭苍苍，白露为霜。在最美的诗词里，遇见最美的她]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|9.6]]></title>
-            <link>https://mp.weixin.qq.com/s/yAjwJNcj7kcsPgnqwCTI6A</link>
-            <guid>https://mp.weixin.qq.com/s/yAjwJNcj7kcsPgnqwCTI6A</guid>
-            <pubDate>Tue, 06 Sep 2022 08:30:11 GMT</pubDate>
-            <description><![CDATA[每日一句|9.6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|9.6]]></title>
-            <link>https://mp.weixin.qq.com/s/f50OZNRZ3QiapFUJPqniBg</link>
-            <guid>https://mp.weixin.qq.com/s/f50OZNRZ3QiapFUJPqniBg</guid>
-            <pubDate>Tue, 06 Sep 2022 08:30:11 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|9.6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|9.6]]></title>
-            <link>https://mp.weixin.qq.com/s/qmfph0ZnE_-PGqp0aZIfzw</link>
-            <guid>https://mp.weixin.qq.com/s/qmfph0ZnE_-PGqp0aZIfzw</guid>
-            <pubDate>Tue, 06 Sep 2022 08:30:11 GMT</pubDate>
-            <description><![CDATA[每日听写|9.6]]></description>
         </item>
     </channel>
 </rss>
