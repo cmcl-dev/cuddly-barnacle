@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 04 Dec 2022 01:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 01:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[我是后端，要学前端嘛？]]></title>
+            <link>https://mp.weixin.qq.com/s/JXLcDjgvkLk37yDBpHL_Ww</link>
+            <guid>https://mp.weixin.qq.com/s/JXLcDjgvkLk37yDBpHL_Ww</guid>
+            <pubDate>Mon, 05 Dec 2022 01:10:33 GMT</pubDate>
+            <description><![CDATA[我是后端，要学前端嘛？]]></description>
+        </item>
         <item>
             <title><![CDATA[程序员狂喜？这东西终于要废除了！]]></title>
             <link>https://mp.weixin.qq.com/s/RQvJgNXs_0oj1lwlQw2KmQ</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/exdx7jWdECUcV5nxlErftw</guid>
             <pubDate>Thu, 01 Sep 2022 01:10:05 GMT</pubDate>
             <description><![CDATA[我的学习小圈子]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这行代码好怪，再看一眼 !]]></title>
-            <link>https://mp.weixin.qq.com/s/Dkt_0BqzTLWy2ztKqX_ZLw</link>
-            <guid>https://mp.weixin.qq.com/s/Dkt_0BqzTLWy2ztKqX_ZLw</guid>
-            <pubDate>Thu, 01 Sep 2022 01:10:05 GMT</pubDate>
-            <description><![CDATA[这行代码好怪，再看一眼 !]]></description>
         </item>
     </channel>
 </rss>
