@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 01:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[学会这招，一天接一个私活！]]></title>
+            <link>https://mp.weixin.qq.com/s/9sjpvkNSYaZvpCy2sb2N2A</link>
+            <guid>https://mp.weixin.qq.com/s/9sjpvkNSYaZvpCy2sb2N2A</guid>
+            <pubDate>Tue, 06 Dec 2022 01:09:01 GMT</pubDate>
+            <description><![CDATA[学会这招，一天接一个私活！]]></description>
+        </item>
         <item>
             <title><![CDATA[我是后端，要学前端嘛？]]></title>
             <link>https://mp.weixin.qq.com/s/JXLcDjgvkLk37yDBpHL_Ww</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/cAyLk3YMuvHecD8jtBZ86A</guid>
             <pubDate>Sat, 03 Sep 2022 01:10:23 GMT</pubDate>
             <description><![CDATA[这几个插件，让你的 vscode 更牛逼！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的学习小圈子]]></title>
-            <link>https://mp.weixin.qq.com/s/exdx7jWdECUcV5nxlErftw</link>
-            <guid>https://mp.weixin.qq.com/s/exdx7jWdECUcV5nxlErftw</guid>
-            <pubDate>Thu, 01 Sep 2022 01:10:05 GMT</pubDate>
-            <description><![CDATA[我的学习小圈子]]></description>
         </item>
     </channel>
 </rss>
