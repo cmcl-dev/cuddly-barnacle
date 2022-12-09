@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 01:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[看完这篇，搞定接口优化 18 种方案]]></title>
+            <link>https://mp.weixin.qq.com/s/LRxf33s6CndmQUMlyMCPjA</link>
+            <guid>https://mp.weixin.qq.com/s/LRxf33s6CndmQUMlyMCPjA</guid>
+            <pubDate>Fri, 09 Dec 2022 01:10:12 GMT</pubDate>
+            <description><![CDATA[看完这篇，搞定接口优化 18 种方案]]></description>
+        </item>
+        <item>
+            <title><![CDATA[刚入职的学弟一直埋头写代码，我却让他做这件事。。]]></title>
+            <link>https://mp.weixin.qq.com/s/epi8s7I036bGiZpnEKMwWg</link>
+            <guid>https://mp.weixin.qq.com/s/epi8s7I036bGiZpnEKMwWg</guid>
+            <pubDate>Fri, 09 Dec 2022 01:10:12 GMT</pubDate>
+            <description><![CDATA[刚入职的学弟一直埋头写代码，我却让他做这件事。。]]></description>
+        </item>
         <item>
             <title><![CDATA[老弟竟然写了个库，牛x轰轰朝我炫耀！]]></title>
             <link>https://mp.weixin.qq.com/s/geMuu3gHrn3RRG-MIw0eqw</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/nu5ntkFQL-amRK4sRXyHuA</guid>
             <pubDate>Sun, 04 Sep 2022 01:10:13 GMT</pubDate>
             <description><![CDATA[前端发展趋势预测 !]]></description>
-        </item>
-        <item>
-            <title><![CDATA[x == 1 && x == 2 竟然能成立 ？！]]></title>
-            <link>https://mp.weixin.qq.com/s/9d4rZc0_rebVU4QAxU-2ng</link>
-            <guid>https://mp.weixin.qq.com/s/9d4rZc0_rebVU4QAxU-2ng</guid>
-            <pubDate>Sun, 04 Sep 2022 01:10:13 GMT</pubDate>
-            <description><![CDATA[x == 1 && x == 2 竟然能成立 ？！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一文带你搞懂 CDN 的技术原理]]></title>
-            <link>https://mp.weixin.qq.com/s/udaZpcXuGyNmtoif_KLQow</link>
-            <guid>https://mp.weixin.qq.com/s/udaZpcXuGyNmtoif_KLQow</guid>
-            <pubDate>Sat, 03 Sep 2022 01:10:23 GMT</pubDate>
-            <description><![CDATA[一文带你搞懂 CDN 的技术原理]]></description>
         </item>
     </channel>
 </rss>
