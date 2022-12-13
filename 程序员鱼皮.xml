@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 10 Dec 2022 01:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[分享一位 Java 选手的秋招生存之道]]></title>
+            <link>https://mp.weixin.qq.com/s/tU73ULnSFbDaMnMkcrNi1w</link>
+            <guid>https://mp.weixin.qq.com/s/tU73ULnSFbDaMnMkcrNi1w</guid>
+            <pubDate>Tue, 13 Dec 2022 01:09:29 GMT</pubDate>
+            <description><![CDATA[分享一位 Java 选手的秋招生存之道]]></description>
+        </item>
         <item>
             <title><![CDATA[希望学编程的同学都知道这些宝藏老师！]]></title>
             <link>https://mp.weixin.qq.com/s/sMeftjBuBPqpsUlGltjYcA</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/TDzio0ySH6trI62SOUEu1Q</guid>
             <pubDate>Mon, 05 Sep 2022 01:10:28 GMT</pubDate>
             <description><![CDATA[管理内存的大boss，竟然是。。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电脑死机的时候，它在干什么？]]></title>
-            <link>https://mp.weixin.qq.com/s/rzjiicoTZH5Bu2WZhltTJg</link>
-            <guid>https://mp.weixin.qq.com/s/rzjiicoTZH5Bu2WZhltTJg</guid>
-            <pubDate>Mon, 05 Sep 2022 01:10:28 GMT</pubDate>
-            <description><![CDATA[电脑死机的时候，它在干什么？]]></description>
         </item>
     </channel>
 </rss>
