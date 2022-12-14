@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 07:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[彩蛋发掘，能让你的浏览器少装 10 个扩展！]]></title>
+            <link>https://mp.weixin.qq.com/s/prEggXxDLlDYO2sFqQUOWw</link>
+            <guid>https://mp.weixin.qq.com/s/prEggXxDLlDYO2sFqQUOWw</guid>
+            <pubDate>Wed, 14 Dec 2022 07:29:32 GMT</pubDate>
+            <description><![CDATA[彩蛋发掘，能让你的浏览器少装 10 个扩展！]]></description>
+        </item>
         <item>
             <title><![CDATA[网友说想“侧边栏刷抖音”，我连夜肝出来了！]]></title>
             <link>https://mp.weixin.qq.com/s/GgWOnkfk3nbiUvpDYJEB0g</link>
@@ -729,13 +736,6 @@ PS：复制到浏览器打开！ 👌]]></description>
             <description><![CDATA[我是不是飘了？
 我甚至还想做视频版的“大工程”。
 想听听你的意见！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[传下去，奶鸽鸽要搞“大工程”了！]]></title>
-            <link>https://mp.weixin.qq.com/s/Hkbmcdd0aZISrRZhn3LOPw</link>
-            <guid>https://mp.weixin.qq.com/s/Hkbmcdd0aZISrRZhn3LOPw</guid>
-            <pubDate>Tue, 30 Nov 2021 15:33:41 GMT</pubDate>
-            <description><![CDATA[传下去，奶鸽鸽要搞“大工程”了！]]></description>
         </item>
     </channel>
 </rss>
