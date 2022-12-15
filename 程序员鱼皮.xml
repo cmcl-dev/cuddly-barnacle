@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 14 Dec 2022 01:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 01:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[我最近在用的一款神器，功能多到炸！]]></title>
+            <link>https://mp.weixin.qq.com/s/4947y9aOskEwXRwUxRm55w</link>
+            <guid>https://mp.weixin.qq.com/s/4947y9aOskEwXRwUxRm55w</guid>
+            <pubDate>Thu, 15 Dec 2022 01:09:26 GMT</pubDate>
+            <description><![CDATA[我最近在用的一款神器，功能多到炸！]]></description>
+        </item>
         <item>
             <title><![CDATA[老师看上了我的项目，还想申请个软著？！]]></title>
             <link>https://mp.weixin.qq.com/s/ZB6E6UQg_9BeF2t3It61HA</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/NAt7GGw7lXclE_w7t16WHw</guid>
             <pubDate>Thu, 08 Sep 2022 01:09:39 GMT</pubDate>
             <description><![CDATA[十年之后，你现在学的技术还有用么？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于简历造假，只能说太 “勇” 了]]></title>
-            <link>https://mp.weixin.qq.com/s/RZaw6Ug-MngN28JwFjbkiA</link>
-            <guid>https://mp.weixin.qq.com/s/RZaw6Ug-MngN28JwFjbkiA</guid>
-            <pubDate>Wed, 07 Sep 2022 01:10:29 GMT</pubDate>
-            <description><![CDATA[关于简历造假，只能说太 “勇” 了]]></description>
         </item>
     </channel>
 </rss>
