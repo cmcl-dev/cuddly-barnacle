@@ -4,11 +4,39 @@
         <title>人民日报</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 26 Dec 2022 04:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 13:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>人民日报</copyright>
+        <item>
+            <title><![CDATA[​守望相助，余药共享！ “抗疫互助平台”上线]]></title>
+            <link>https://mp.weixin.qq.com/s/GHQ5jXeufu1SKrCIxukCIg</link>
+            <guid>https://mp.weixin.qq.com/s/GHQ5jXeufu1SKrCIxukCIg</guid>
+            <pubDate>Tue, 27 Dec 2022 13:06:43 GMT</pubDate>
+            <description><![CDATA[​守望相助，余药共享！ “抗疫互助平台”上线]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“阳了”什么情况要去医院？你关心的10个问题，解答来了！]]></title>
+            <link>https://mp.weixin.qq.com/s/acFEbNqYa6a0YZwK9W6LOw</link>
+            <guid>https://mp.weixin.qq.com/s/acFEbNqYa6a0YZwK9W6LOw</guid>
+            <pubDate>Tue, 27 Dec 2022 03:46:03 GMT</pubDate>
+            <description><![CDATA[“阳了”什么情况要去医院？你关心的10个问题，解答来了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2023年1月8日起，对新冠感染实施“乙类乙管”]]></title>
+            <link>https://mp.weixin.qq.com/s/eNLrNtFa78uubYDRcxGl5A</link>
+            <guid>https://mp.weixin.qq.com/s/eNLrNtFa78uubYDRcxGl5A</guid>
+            <pubDate>Mon, 26 Dec 2022 20:06:09 GMT</pubDate>
+            <description><![CDATA[2023年1月8日起，对新冠感染实施“乙类乙管”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：新冠肺炎更名为新冠感染]]></title>
+            <link>https://mp.weixin.qq.com/s/OOd7ndMkNr0V3hFGgLNG3Q</link>
+            <guid>https://mp.weixin.qq.com/s/OOd7ndMkNr0V3hFGgLNG3Q</guid>
+            <pubDate>Mon, 26 Dec 2022 20:06:09 GMT</pubDate>
+            <description><![CDATA[国家卫健委：新冠肺炎更名为新冠感染]]></description>
+        </item>
         <item>
             <title><![CDATA[昏迷16天后，陈洋醒了!]]></title>
             <link>https://mp.weixin.qq.com/s/wvmAQvLNMSiMB1AMxEfEMA</link>
@@ -680,34 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/ohgPVXamVzF6KCtxEEasnA</guid>
             <pubDate>Thu, 01 Dec 2022 04:14:45 GMT</pubDate>
             <description><![CDATA[邓清明圆梦了！女儿说……]]></description>
-        </item>
-        <item>
-            <title><![CDATA[两条高铁，同日开工！]]></title>
-            <link>https://mp.weixin.qq.com/s/PI5TdBhT1Dhx85qCzgdSFQ</link>
-            <guid>https://mp.weixin.qq.com/s/PI5TdBhT1Dhx85qCzgdSFQ</guid>
-            <pubDate>Thu, 01 Dec 2022 04:08:26 GMT</pubDate>
-            <description><![CDATA[两条高铁，同日开工！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来了！新闻早班车]]></title>
-            <link>https://mp.weixin.qq.com/s/ct0nS1w55f8kYJh5lkbfCg</link>
-            <guid>https://mp.weixin.qq.com/s/ct0nS1w55f8kYJh5lkbfCg</guid>
-            <pubDate>Wed, 30 Nov 2022 22:16:09 GMT</pubDate>
-            <description><![CDATA[来了！新闻早班车]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【夜读】2022年的最后一个月，坚持做这4件事]]></title>
-            <link>https://mp.weixin.qq.com/s/S9MkQH8xddZ9DpOEYPRynw</link>
-            <guid>https://mp.weixin.qq.com/s/S9MkQH8xddZ9DpOEYPRynw</guid>
-            <pubDate>Wed, 30 Nov 2022 20:27:13 GMT</pubDate>
-            <description><![CDATA[【夜读】2022年的最后一个月，坚持做这4件事]]></description>
-        </item>
-        <item>
-            <title><![CDATA[明天起，这些新规将影响你的生活]]></title>
-            <link>https://mp.weixin.qq.com/s/CITH_O-vu2FciNVbEzgIDg</link>
-            <guid>https://mp.weixin.qq.com/s/CITH_O-vu2FciNVbEzgIDg</guid>
-            <pubDate>Wed, 30 Nov 2022 07:04:00 GMT</pubDate>
-            <description><![CDATA[明天起，这些新规将影响你的生活]]></description>
         </item>
     </channel>
 </rss>
