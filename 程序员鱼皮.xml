@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 22 Dec 2022 01:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 15:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[Java程序员的经典错误，请注意]]></title>
+            <link>https://mp.weixin.qq.com/s/p6TJVS6y3wVX-kEVS0_lyA</link>
+            <guid>https://mp.weixin.qq.com/s/p6TJVS6y3wVX-kEVS0_lyA</guid>
+            <pubDate>Tue, 03 Jan 2023 15:07:18 GMT</pubDate>
+            <description><![CDATA[Java程序员的经典错误，请注意]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用4个完整案例，一次性讲明白Web逆向！]]></title>
+            <link>https://mp.weixin.qq.com/s/2t6w96NCQn-INNBkKLo9CQ</link>
+            <guid>https://mp.weixin.qq.com/s/2t6w96NCQn-INNBkKLo9CQ</guid>
+            <pubDate>Tue, 03 Jan 2023 15:07:18 GMT</pubDate>
+            <description><![CDATA[用4个完整案例，一次性讲明白Web逆向！]]></description>
+        </item>
         <item>
             <title><![CDATA[瞧瞧大佬写的接口，那叫一个优雅]]></title>
             <link>https://mp.weixin.qq.com/s/qP-kJ7-YvYvjz1T189oNJA</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/KKXgk1gkEmC9lpy06s1kvg</guid>
             <pubDate>Tue, 13 Sep 2022 01:10:33 GMT</pubDate>
             <description><![CDATA[太赞了！发现一个JS逆向神器！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一行 JS 代码，能做哪些事？]]></title>
-            <link>https://mp.weixin.qq.com/s/uByyLgaAgyi5pR1f7aUjVQ</link>
-            <guid>https://mp.weixin.qq.com/s/uByyLgaAgyi5pR1f7aUjVQ</guid>
-            <pubDate>Sun, 11 Sep 2022 01:09:44 GMT</pubDate>
-            <description><![CDATA[一行 JS 代码，能做哪些事？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[踩坑了，又踩坑了 。。。]]></title>
-            <link>https://mp.weixin.qq.com/s/tN4uEHIfqbS5mOzDj89v0A</link>
-            <guid>https://mp.weixin.qq.com/s/tN4uEHIfqbS5mOzDj89v0A</guid>
-            <pubDate>Sun, 11 Sep 2022 01:09:44 GMT</pubDate>
-            <description><![CDATA[踩坑了，又踩坑了 。。。]]></description>
         </item>
     </channel>
 </rss>
