@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Tue, 03 Jan 2023 15:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[鱼皮的精选文章合集]]></title>
+            <link>https://mp.weixin.qq.com/s/_C7-zgktPD1rz_6adQrUVQ</link>
+            <guid>https://mp.weixin.qq.com/s/_C7-zgktPD1rz_6adQrUVQ</guid>
+            <pubDate>Thu, 05 Jan 2023 01:09:43 GMT</pubDate>
+            <description><![CDATA[鱼皮的精选文章合集]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这几个技术很不错，就是有点冷门]]></title>
+            <link>https://mp.weixin.qq.com/s/pH_UAlVayBNU_3xGxfgSfg</link>
+            <guid>https://mp.weixin.qq.com/s/pH_UAlVayBNU_3xGxfgSfg</guid>
+            <pubDate>Thu, 05 Jan 2023 01:09:43 GMT</pubDate>
+            <description><![CDATA[这几个技术很不错，就是有点冷门]]></description>
+        </item>
         <item>
             <title><![CDATA[Java程序员的经典错误，请注意]]></title>
             <link>https://mp.weixin.qq.com/s/p6TJVS6y3wVX-kEVS0_lyA</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/b3VXOl5hrI-_Zl2O5tKXxQ</guid>
             <pubDate>Wed, 14 Sep 2022 01:09:59 GMT</pubDate>
             <description><![CDATA[用去年的简历投了一遍所有拿到offer的公司，结果。。。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一文吃透 JAVA Stream 流操作！]]></title>
-            <link>https://mp.weixin.qq.com/s/eWPzmRLXxMk0hEY6n3j4sA</link>
-            <guid>https://mp.weixin.qq.com/s/eWPzmRLXxMk0hEY6n3j4sA</guid>
-            <pubDate>Tue, 13 Sep 2022 01:10:33 GMT</pubDate>
-            <description><![CDATA[一文吃透 JAVA Stream 流操作！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[太赞了！发现一个JS逆向神器！]]></title>
-            <link>https://mp.weixin.qq.com/s/KKXgk1gkEmC9lpy06s1kvg</link>
-            <guid>https://mp.weixin.qq.com/s/KKXgk1gkEmC9lpy06s1kvg</guid>
-            <pubDate>Tue, 13 Sep 2022 01:10:33 GMT</pubDate>
-            <description><![CDATA[太赞了！发现一个JS逆向神器！]]></description>
         </item>
     </channel>
 </rss>
