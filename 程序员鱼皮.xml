@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Jan 2023 01:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 01:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[想预防屎山代码，从这件事做起！]]></title>
+            <link>https://mp.weixin.qq.com/s/ZfiQdSWdp_siW9S2iVfxkQ</link>
+            <guid>https://mp.weixin.qq.com/s/ZfiQdSWdp_siW9S2iVfxkQ</guid>
+            <pubDate>Fri, 06 Jan 2023 01:09:03 GMT</pubDate>
+            <description><![CDATA[想预防屎山代码，从这件事做起！]]></description>
+        </item>
         <item>
             <title><![CDATA[鱼皮的精选文章合集]]></title>
             <link>https://mp.weixin.qq.com/s/_C7-zgktPD1rz_6adQrUVQ</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/50FLAD4bT8pS8nN49o6b9Q</guid>
             <pubDate>Thu, 15 Sep 2022 01:11:06 GMT</pubDate>
             <description><![CDATA[收到6家大厂offer，我把问烂了的《Java八股文》打造成3个PDF。共1700页！！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用去年的简历投了一遍所有拿到offer的公司，结果。。。]]></title>
-            <link>https://mp.weixin.qq.com/s/b3VXOl5hrI-_Zl2O5tKXxQ</link>
-            <guid>https://mp.weixin.qq.com/s/b3VXOl5hrI-_Zl2O5tKXxQ</guid>
-            <pubDate>Wed, 14 Sep 2022 01:09:59 GMT</pubDate>
-            <description><![CDATA[用去年的简历投了一遍所有拿到offer的公司，结果。。。]]></description>
         </item>
     </channel>
 </rss>
