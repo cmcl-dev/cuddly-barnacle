@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 06 Jan 2023 01:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 01:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[最适合程序员的画图工具？]]></title>
+            <link>https://mp.weixin.qq.com/s/ircwCbIplAhYirQ93RK6CA</link>
+            <guid>https://mp.weixin.qq.com/s/ircwCbIplAhYirQ93RK6CA</guid>
+            <pubDate>Sun, 08 Jan 2023 01:10:29 GMT</pubDate>
+            <description><![CDATA[最适合程序员的画图工具？]]></description>
+        </item>
         <item>
             <title><![CDATA[想预防屎山代码，从这件事做起！]]></title>
             <link>https://mp.weixin.qq.com/s/ZfiQdSWdp_siW9S2iVfxkQ</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/YM8OsSIsxjvZ9vfxX8v3nA</guid>
             <pubDate>Thu, 15 Sep 2022 01:11:06 GMT</pubDate>
             <description><![CDATA[如果把你的一生都记录到数据库中]]></description>
-        </item>
-        <item>
-            <title><![CDATA[收到6家大厂offer，我把问烂了的《Java八股文》打造成3个PDF。共1700页！！]]></title>
-            <link>https://mp.weixin.qq.com/s/50FLAD4bT8pS8nN49o6b9Q</link>
-            <guid>https://mp.weixin.qq.com/s/50FLAD4bT8pS8nN49o6b9Q</guid>
-            <pubDate>Thu, 15 Sep 2022 01:11:06 GMT</pubDate>
-            <description><![CDATA[收到6家大厂offer，我把问烂了的《Java八股文》打造成3个PDF。共1700页！！]]></description>
         </item>
     </channel>
 </rss>
