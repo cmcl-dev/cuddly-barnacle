@@ -4,11 +4,25 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Jan 2023 01:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 01:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[这样写SQL，同事说我坑。。]]></title>
+            <link>https://mp.weixin.qq.com/s/GUJnZynQTQMdoQjw8YC8Bg</link>
+            <guid>https://mp.weixin.qq.com/s/GUJnZynQTQMdoQjw8YC8Bg</guid>
+            <pubDate>Wed, 11 Jan 2023 01:11:27 GMT</pubDate>
+            <description><![CDATA[这样写SQL，同事说我坑。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[寒假自学的小建议，弯道超车！]]></title>
+            <link>https://mp.weixin.qq.com/s/yKAY7M1qJZQpMIMywxMqxQ</link>
+            <guid>https://mp.weixin.qq.com/s/yKAY7M1qJZQpMIMywxMqxQ</guid>
+            <pubDate>Wed, 11 Jan 2023 01:11:27 GMT</pubDate>
+            <description><![CDATA[寒假自学的小建议，弯道超车！]]></description>
+        </item>
         <item>
             <title><![CDATA[我放假啦！这 22 天干点啥呢]]></title>
             <link>https://mp.weixin.qq.com/s/JuodODnfTIbRd3GTCILpRQ</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/y6FKQsNxpgGsVM_3SnP4SQ</guid>
             <pubDate>Sat, 17 Sep 2022 01:16:00 GMT</pubDate>
             <description><![CDATA[Java 19 支持虚拟线程了，强啊！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[灵魂拷问 TCP ，你要投降了吗？]]></title>
-            <link>https://mp.weixin.qq.com/s/umBVbFEF5hU2icLTKhiz_Q</link>
-            <guid>https://mp.weixin.qq.com/s/umBVbFEF5hU2icLTKhiz_Q</guid>
-            <pubDate>Fri, 16 Sep 2022 01:09:17 GMT</pubDate>
-            <description><![CDATA[灵魂拷问 TCP ，你要投降了吗？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当我去了不到 20 人的 IT 公司后。。。]]></title>
-            <link>https://mp.weixin.qq.com/s/awhqU5JBj18nJ-SjtGS-BQ</link>
-            <guid>https://mp.weixin.qq.com/s/awhqU5JBj18nJ-SjtGS-BQ</guid>
-            <pubDate>Fri, 16 Sep 2022 01:09:17 GMT</pubDate>
-            <description><![CDATA[当我去了不到 20 人的 IT 公司后。。。]]></description>
         </item>
     </channel>
 </rss>
