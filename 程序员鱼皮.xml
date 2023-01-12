@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Wed, 11 Jan 2023 01:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 01:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[又一个新项目搞完啦！！！]]></title>
+            <link>https://mp.weixin.qq.com/s/IgBVp-BJrzoc7vloWrX4ww</link>
+            <guid>https://mp.weixin.qq.com/s/IgBVp-BJrzoc7vloWrX4ww</guid>
+            <pubDate>Thu, 12 Jan 2023 01:11:27 GMT</pubDate>
+            <description><![CDATA[又一个新项目搞完啦！！！]]></description>
+        </item>
         <item>
             <title><![CDATA[这样写SQL，同事说我坑。。]]></title>
             <link>https://mp.weixin.qq.com/s/GUJnZynQTQMdoQjw8YC8Bg</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/oLo6vJDCjcx10QYSXqUUXA</guid>
             <pubDate>Sat, 17 Sep 2022 01:16:00 GMT</pubDate>
             <description><![CDATA[为什么说 Vue 比 React 更好？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Java 19 支持虚拟线程了，强啊！]]></title>
-            <link>https://mp.weixin.qq.com/s/y6FKQsNxpgGsVM_3SnP4SQ</link>
-            <guid>https://mp.weixin.qq.com/s/y6FKQsNxpgGsVM_3SnP4SQ</guid>
-            <pubDate>Sat, 17 Sep 2022 01:16:00 GMT</pubDate>
-            <description><![CDATA[Java 19 支持虚拟线程了，强啊！]]></description>
         </item>
     </channel>
 </rss>
