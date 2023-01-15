@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 14 Jan 2023 01:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 01:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[这样写代码，同事乐开花]]></title>
+            <link>https://mp.weixin.qq.com/s/1GiguPOQdYvdRWEiwH876w</link>
+            <guid>https://mp.weixin.qq.com/s/1GiguPOQdYvdRWEiwH876w</guid>
+            <pubDate>Sun, 15 Jan 2023 01:12:05 GMT</pubDate>
+            <description><![CDATA[这样写代码，同事乐开花]]></description>
+        </item>
         <item>
             <title><![CDATA[知道你们想看这个！]]></title>
             <link>https://mp.weixin.qq.com/s/9x-kdKOUs9Tyi28_PK-R7A</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/1J5MVh2_YXRmNxkDQwlFBg</guid>
             <pubDate>Tue, 20 Sep 2022 01:09:13 GMT</pubDate>
             <description><![CDATA[分析了千名程序员的裁员情况，我发现。。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这几个开源微信小程序， yyds！]]></title>
-            <link>https://mp.weixin.qq.com/s/CYuEAf22rGmuk6zh0o22MA</link>
-            <guid>https://mp.weixin.qq.com/s/CYuEAf22rGmuk6zh0o22MA</guid>
-            <pubDate>Mon, 19 Sep 2022 01:08:28 GMT</pubDate>
-            <description><![CDATA[这几个开源微信小程序， yyds！]]></description>
         </item>
     </channel>
 </rss>
