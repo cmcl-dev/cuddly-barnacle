@@ -4,11 +4,18 @@
         <title>程序员鱼皮</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 15 Jan 2023 01:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 01:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>程序员鱼皮</copyright>
+        <item>
+            <title><![CDATA[我去年最正确的决定！]]></title>
+            <link>https://mp.weixin.qq.com/s/rZJjepAg8XATwy5gZsm9Ug</link>
+            <guid>https://mp.weixin.qq.com/s/rZJjepAg8XATwy5gZsm9Ug</guid>
+            <pubDate>Mon, 16 Jan 2023 01:10:08 GMT</pubDate>
+            <description><![CDATA[我去年最正确的决定！]]></description>
+        </item>
         <item>
             <title><![CDATA[这样写代码，同事乐开花]]></title>
             <link>https://mp.weixin.qq.com/s/1GiguPOQdYvdRWEiwH876w</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/E_gJ4nJLrxPuRsJt4o97ww</guid>
             <pubDate>Tue, 20 Sep 2022 01:09:13 GMT</pubDate>
             <description><![CDATA[神级 idea 插件，让你代码飞起来!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分析了千名程序员的裁员情况，我发现。。]]></title>
-            <link>https://mp.weixin.qq.com/s/1J5MVh2_YXRmNxkDQwlFBg</link>
-            <guid>https://mp.weixin.qq.com/s/1J5MVh2_YXRmNxkDQwlFBg</guid>
-            <pubDate>Tue, 20 Sep 2022 01:09:13 GMT</pubDate>
-            <description><![CDATA[分析了千名程序员的裁员情况，我发现。。]]></description>
         </item>
     </channel>
 </rss>
