@@ -4,11 +4,18 @@
         <title>人民日报</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 26 Jan 2023 03:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 12:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>人民日报</copyright>
+        <item>
+            <title><![CDATA[这种浪漫，中国人专属！]]></title>
+            <link>https://mp.weixin.qq.com/s/PenBUudaLmC-GgA-THBjAQ</link>
+            <guid>https://mp.weixin.qq.com/s/PenBUudaLmC-GgA-THBjAQ</guid>
+            <pubDate>Thu, 26 Jan 2023 12:25:01 GMT</pubDate>
+            <description><![CDATA[这种浪漫，中国人专属！]]></description>
+        </item>
         <item>
             <title><![CDATA[这个春节，记得给妈妈一个拥抱]]></title>
             <link>https://mp.weixin.qq.com/s/_KOrSjm62g-tBhvJcuSBcQ</link>
@@ -701,13 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/UfyvWarowxkCiPzLaei73w</guid>
             <pubDate>Sat, 31 Dec 2022 13:10:08 GMT</pubDate>
             <description><![CDATA[习近平：祝愿大家新年快乐、皆得所愿！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全文来了！国家主席习近平发表二〇二三年新年贺词]]></title>
-            <link>https://mp.weixin.qq.com/s/4h1ReJ_MjEriEAfZ5in_mQ</link>
-            <guid>https://mp.weixin.qq.com/s/4h1ReJ_MjEriEAfZ5in_mQ</guid>
-            <pubDate>Sat, 31 Dec 2022 12:31:52 GMT</pubDate>
-            <description><![CDATA[全文来了！国家主席习近平发表二〇二三年新年贺词]]></description>
         </item>
     </channel>
 </rss>
