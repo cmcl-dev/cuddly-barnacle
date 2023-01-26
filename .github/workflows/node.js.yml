@@ -32,9 +32,9 @@ jobs:
     - run: node main.js
 
     - run: |
-        git config --local user.email "justjavac@gmail.com"
-        git config --local user.name "迷渡"
+        git config --local user.email "cmcl-dev@github.com"
+        git config --local user.name "@cmcl-dev bot"
         git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git add .
-        git commit --allow-empty -m "a commit a day keeps your girlfriend away"
+        git commit --allow-empty -m "SYNC RSS"
         git push
