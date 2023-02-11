@@ -4,11 +4,25 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Thu, 09 Feb 2023 01:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 01:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[2.11 早读 | 只有在梦想中，人才能真正自由]]></title>
+            <link>https://mp.weixin.qq.com/s/XKW-IiuRV0vWida6Kd557g</link>
+            <guid>https://mp.weixin.qq.com/s/XKW-IiuRV0vWida6Kd557g</guid>
+            <pubDate>Sat, 11 Feb 2023 01:13:35 GMT</pubDate>
+            <description><![CDATA[2.11 早读 | 只有在梦想中，人才能真正自由]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文 | Hold My Hand]]></title>
+            <link>https://mp.weixin.qq.com/s/a7HCu9XE3iwebgYLdSc6Gg</link>
+            <guid>https://mp.weixin.qq.com/s/a7HCu9XE3iwebgYLdSc6Gg</guid>
+            <pubDate>Sat, 11 Feb 2023 01:13:35 GMT</pubDate>
+            <description><![CDATA[听歌学英文 | Hold My Hand]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|2.9]]></title>
             <link>https://mp.weixin.qq.com/s/eojCUaaUu3B7_D_2w2aPzw</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/PgXdxIZcsUGisEbmI8yL-g</guid>
             <pubDate>Mon, 19 Sep 2022 07:16:48 GMT</pubDate>
             <description><![CDATA[【老外说】房价攀升， 对你有影响吗？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9.19早读| 生活中不可能不遭遇失败，除非你活得万般小心。而那样的生活又有什么意义？]]></title>
-            <link>https://mp.weixin.qq.com/s/tv9sgxhdn2HTviO5_0qHpg</link>
-            <guid>https://mp.weixin.qq.com/s/tv9sgxhdn2HTviO5_0qHpg</guid>
-            <pubDate>Mon, 19 Sep 2022 07:16:48 GMT</pubDate>
-            <description><![CDATA[9.19早读| 生活中不可能不遭遇失败，除非你活得万般小心。而那样的生活又有什么意义？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写飞鸟集|The Graduate 04]]></title>
-            <link>https://mp.weixin.qq.com/s/2EhvUJznsbsfAwFZ0fxJKQ</link>
-            <guid>https://mp.weixin.qq.com/s/2EhvUJznsbsfAwFZ0fxJKQ</guid>
-            <pubDate>Sun, 18 Sep 2022 14:47:01 GMT</pubDate>
-            <description><![CDATA[每日听写飞鸟集|The Graduate 04]]></description>
         </item>
     </channel>
 </rss>
