@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 11 Feb 2023 01:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 01:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集|Front of the class 15]]></title>
+            <link>https://mp.weixin.qq.com/s/aGnWXdS_YaNDgijozMXFuA</link>
+            <guid>https://mp.weixin.qq.com/s/aGnWXdS_YaNDgijozMXFuA</guid>
+            <pubDate>Sun, 12 Feb 2023 01:12:33 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集|Front of the class 15]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.12 早读 | 真正相爱的两个人根本不需要猜疑。嫉妒从来留不住感情]]></title>
+            <link>https://mp.weixin.qq.com/s/mX1MwKCseA_hwXI_vAiwmA</link>
+            <guid>https://mp.weixin.qq.com/s/mX1MwKCseA_hwXI_vAiwmA</guid>
+            <pubDate>Sun, 12 Feb 2023 01:12:33 GMT</pubDate>
+            <description><![CDATA[2.12 早读 | 真正相爱的两个人根本不需要猜疑。嫉妒从来留不住感情]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Gwen读绘本】The Perfectly Perfect Wish 如此完美的愿望]]></title>
+            <link>https://mp.weixin.qq.com/s/4I2eOdZ6cwgMDdUwkPPkXg</link>
+            <guid>https://mp.weixin.qq.com/s/4I2eOdZ6cwgMDdUwkPPkXg</guid>
+            <pubDate>Sun, 12 Feb 2023 01:12:33 GMT</pubDate>
+            <description><![CDATA[【Gwen读绘本】The Perfectly Perfect Wish 如此完美的愿望]]></description>
+        </item>
         <item>
             <title><![CDATA[2.11 早读 | 只有在梦想中，人才能真正自由]]></title>
             <link>https://mp.weixin.qq.com/s/XKW-IiuRV0vWida6Kd557g</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/CPe1M77riU4KfsAfLO65MQ</guid>
             <pubDate>Mon, 19 Sep 2022 07:16:49 GMT</pubDate>
             <description><![CDATA[每日一句|9.19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|9.19]]></title>
-            <link>https://mp.weixin.qq.com/s/cariJcxXTYBjLvPvCGdFNQ</link>
-            <guid>https://mp.weixin.qq.com/s/cariJcxXTYBjLvPvCGdFNQ</guid>
-            <pubDate>Mon, 19 Sep 2022 07:16:49 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|9.19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|9.19]]></title>
-            <link>https://mp.weixin.qq.com/s/F7G3K8K-hk2Ne8PK0g_cOQ</link>
-            <guid>https://mp.weixin.qq.com/s/F7G3K8K-hk2Ne8PK0g_cOQ</guid>
-            <pubDate>Mon, 19 Sep 2022 07:16:49 GMT</pubDate>
-            <description><![CDATA[每日听写|9.19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【老外说】房价攀升， 对你有影响吗？]]></title>
-            <link>https://mp.weixin.qq.com/s/PgXdxIZcsUGisEbmI8yL-g</link>
-            <guid>https://mp.weixin.qq.com/s/PgXdxIZcsUGisEbmI8yL-g</guid>
-            <pubDate>Mon, 19 Sep 2022 07:16:48 GMT</pubDate>
-            <description><![CDATA[【老外说】房价攀升， 对你有影响吗？]]></description>
         </item>
     </channel>
 </rss>
