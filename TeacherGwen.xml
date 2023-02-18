@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 17 Feb 2023 01:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 01:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写 | 2.13-2.17初级汇总]]></title>
+            <link>https://mp.weixin.qq.com/s/MOrXv9yT5tqOvaWU4VcyUw</link>
+            <guid>https://mp.weixin.qq.com/s/MOrXv9yT5tqOvaWU4VcyUw</guid>
+            <pubDate>Sat, 18 Feb 2023 01:13:05 GMT</pubDate>
+            <description><![CDATA[每日听写 | 2.13-2.17初级汇总]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.18 早读 | 坦诚是你最佳防御，也是最佳攻击]]></title>
+            <link>https://mp.weixin.qq.com/s/Cbm5JwsZO82Nohn6Lg_Wqg</link>
+            <guid>https://mp.weixin.qq.com/s/Cbm5JwsZO82Nohn6Lg_Wqg</guid>
+            <pubDate>Sat, 18 Feb 2023 01:13:05 GMT</pubDate>
+            <description><![CDATA[2.18 早读 | 坦诚是你最佳防御，也是最佳攻击]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文 | As It Was]]></title>
+            <link>https://mp.weixin.qq.com/s/1L5LPj7NUllQ3LfayxdZTQ</link>
+            <guid>https://mp.weixin.qq.com/s/1L5LPj7NUllQ3LfayxdZTQ</guid>
+            <pubDate>Sat, 18 Feb 2023 01:13:05 GMT</pubDate>
+            <description><![CDATA[听歌学英文 | As It Was]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|2.17]]></title>
             <link>https://mp.weixin.qq.com/s/3PqYtnKsJUge2n1SZvS0lQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/uiJ1aOsBpukvExdU3py2XA</guid>
             <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
             <description><![CDATA[我们一起神翻译|9.22]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|9.22]]></title>
-            <link>https://mp.weixin.qq.com/s/hFNYfhkXcZUab7dFeA49fQ</link>
-            <guid>https://mp.weixin.qq.com/s/hFNYfhkXcZUab7dFeA49fQ</guid>
-            <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
-            <description><![CDATA[每日听写|9.22]]></description>
-        </item>
-        <item>
-            <title><![CDATA[dog person 狗人？ cat person 猫人？]]></title>
-            <link>https://mp.weixin.qq.com/s/RELx8S0Bv2QFxtMMB5k_2A</link>
-            <guid>https://mp.weixin.qq.com/s/RELx8S0Bv2QFxtMMB5k_2A</guid>
-            <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
-            <description><![CDATA[dog person 狗人？ cat person 猫人？]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9.22早读 | 爱，意味着赋予另一个人伤害你的权力]]></title>
-            <link>https://mp.weixin.qq.com/s/eB1AAV3TMz5bpulmgpUobw</link>
-            <guid>https://mp.weixin.qq.com/s/eB1AAV3TMz5bpulmgpUobw</guid>
-            <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
-            <description><![CDATA[9.22早读 | 爱，意味着赋予另一个人伤害你的权力]]></description>
         </item>
     </channel>
 </rss>
