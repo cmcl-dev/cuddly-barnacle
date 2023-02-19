@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 18 Feb 2023 01:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 01:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集| He's Just Not That Into You 01]]></title>
+            <link>https://mp.weixin.qq.com/s/raOJgF_3edULKfhVwbi78g</link>
+            <guid>https://mp.weixin.qq.com/s/raOJgF_3edULKfhVwbi78g</guid>
+            <pubDate>Sun, 19 Feb 2023 01:12:26 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集| He's Just Not That Into You 01]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.19 早读 | 只有真挚的爱情，才能让我想进入婚姻]]></title>
+            <link>https://mp.weixin.qq.com/s/0Z8FQZxVyBMomlDz0UNtrg</link>
+            <guid>https://mp.weixin.qq.com/s/0Z8FQZxVyBMomlDz0UNtrg</guid>
+            <pubDate>Sun, 19 Feb 2023 01:12:26 GMT</pubDate>
+            <description><![CDATA[2.19 早读 | 只有真挚的爱情，才能让我想进入婚姻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为你读诗——But You Didn't...]]></title>
+            <link>https://mp.weixin.qq.com/s/_qh2r7Yl56ILqmNs8nXaTQ</link>
+            <guid>https://mp.weixin.qq.com/s/_qh2r7Yl56ILqmNs8nXaTQ</guid>
+            <pubDate>Sun, 19 Feb 2023 01:12:26 GMT</pubDate>
+            <description><![CDATA[为你读诗——But You Didn't...]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写 | 2.13-2.17初级汇总]]></title>
             <link>https://mp.weixin.qq.com/s/MOrXv9yT5tqOvaWU4VcyUw</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/olX8sscl3vJIkZQgYgUVbg</guid>
             <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
             <description><![CDATA[每日听写|9.27]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9.27早读 | 拯救这世界，让她变更好]]></title>
-            <link>https://mp.weixin.qq.com/s/LM6-K0BDT1nIZMQFVNEoVA</link>
-            <guid>https://mp.weixin.qq.com/s/LM6-K0BDT1nIZMQFVNEoVA</guid>
-            <pubDate>Tue, 27 Sep 2022 04:12:00 GMT</pubDate>
-            <description><![CDATA[9.27早读 | 拯救这世界，让她变更好]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|9.22]]></title>
-            <link>https://mp.weixin.qq.com/s/0vTygG6vcxjFtRDK64S6BQ</link>
-            <guid>https://mp.weixin.qq.com/s/0vTygG6vcxjFtRDK64S6BQ</guid>
-            <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
-            <description><![CDATA[每日一句|9.22]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|9.22]]></title>
-            <link>https://mp.weixin.qq.com/s/uiJ1aOsBpukvExdU3py2XA</link>
-            <guid>https://mp.weixin.qq.com/s/uiJ1aOsBpukvExdU3py2XA</guid>
-            <pubDate>Thu, 22 Sep 2022 04:07:03 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|9.22]]></description>
         </item>
     </channel>
 </rss>
