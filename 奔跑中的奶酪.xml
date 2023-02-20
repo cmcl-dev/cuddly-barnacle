@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Fri, 17 Feb 2023 14:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[谷歌翻译再次复活，速度快了还不止一倍！]]></title>
+            <link>https://mp.weixin.qq.com/s/4rFMSkaaiQt_5xpvq08cYw</link>
+            <guid>https://mp.weixin.qq.com/s/4rFMSkaaiQt_5xpvq08cYw</guid>
+            <pubDate>Mon, 20 Feb 2023 07:21:08 GMT</pubDate>
+            <description><![CDATA[谷歌翻译再次复活，速度快了还不止一倍！]]></description>
+        </item>
         <item>
             <title><![CDATA[Z-library 全攻略，免番，直接拥有 31T 资源]]></title>
             <link>https://mp.weixin.qq.com/s/esWMhuDTfxUwOfFlOSV-7w</link>
@@ -725,13 +732,6 @@ PS：复制到浏览器打开！ 👌]]></description>
             <guid>https://mp.weixin.qq.com/s/e5YFGbTjr7B4LXkh8QFOeQ</guid>
             <pubDate>Wed, 05 Jan 2022 01:14:54 GMT</pubDate>
             <description><![CDATA[机会！年薪58w起，人才缺口极大，这才是IT人的铁饭碗！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当大家都在吃瓜的时候，我又整了一个新活]]></title>
-            <link>https://mp.weixin.qq.com/s/yCnGfOKhB0rzpqGkcR7p8Q</link>
-            <guid>https://mp.weixin.qq.com/s/yCnGfOKhB0rzpqGkcR7p8Q</guid>
-            <pubDate>Tue, 21 Dec 2021 11:55:32 GMT</pubDate>
-            <description><![CDATA[当大家都在吃瓜的时候，我又整了一个新活]]></description>
         </item>
     </channel>
 </rss>
