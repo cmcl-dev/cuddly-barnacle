@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 20 Feb 2023 01:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 01:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写 | 2.20-2.24中级汇总]]></title>
+            <link>https://mp.weixin.qq.com/s/I-igV82XFznb8PBR4khXQA</link>
+            <guid>https://mp.weixin.qq.com/s/I-igV82XFznb8PBR4khXQA</guid>
+            <pubDate>Sat, 25 Feb 2023 01:19:09 GMT</pubDate>
+            <description><![CDATA[每日听写 | 2.20-2.24中级汇总]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.25早读 | 可怕的不是长大，而是遗忘]]></title>
+            <link>https://mp.weixin.qq.com/s/bJeSaq6skBWO7-OWdQMqmw</link>
+            <guid>https://mp.weixin.qq.com/s/bJeSaq6skBWO7-OWdQMqmw</guid>
+            <pubDate>Sat, 25 Feb 2023 01:19:09 GMT</pubDate>
+            <description><![CDATA[2.25早读 | 可怕的不是长大，而是遗忘]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文 | Lowkey]]></title>
+            <link>https://mp.weixin.qq.com/s/tCh27dnQlyiCJdAvyduQ4Q</link>
+            <guid>https://mp.weixin.qq.com/s/tCh27dnQlyiCJdAvyduQ4Q</guid>
+            <pubDate>Sat, 25 Feb 2023 01:19:09 GMT</pubDate>
+            <description><![CDATA[听歌学英文 | Lowkey]]></description>
+        </item>
         <item>
             <title><![CDATA[每日一句|2.20]]></title>
             <link>https://mp.weixin.qq.com/s/Ep7MVhDziWTPMm6g2vb4aQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/PDGXD0rC5EtVGi_72ZZ4lQ</guid>
             <pubDate>Tue, 04 Oct 2022 07:17:44 GMT</pubDate>
             <description><![CDATA[【国庆特辑】英文歌教唱：Five Hundred Miles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日一句|9.29]]></title>
-            <link>https://mp.weixin.qq.com/s/pSs1VnwCWId63lnkPFOkEQ</link>
-            <guid>https://mp.weixin.qq.com/s/pSs1VnwCWId63lnkPFOkEQ</guid>
-            <pubDate>Thu, 29 Sep 2022 04:10:51 GMT</pubDate>
-            <description><![CDATA[每日一句|9.29]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们一起神翻译|9.29]]></title>
-            <link>https://mp.weixin.qq.com/s/mlgIqF-Wsq7fYEdyeCi0QA</link>
-            <guid>https://mp.weixin.qq.com/s/mlgIqF-Wsq7fYEdyeCi0QA</guid>
-            <pubDate>Thu, 29 Sep 2022 04:10:51 GMT</pubDate>
-            <description><![CDATA[我们一起神翻译|9.29]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|9.29]]></title>
-            <link>https://mp.weixin.qq.com/s/owDeuPtGQ_zTXpDmigpZ-Q</link>
-            <guid>https://mp.weixin.qq.com/s/owDeuPtGQ_zTXpDmigpZ-Q</guid>
-            <pubDate>Thu, 29 Sep 2022 04:10:51 GMT</pubDate>
-            <description><![CDATA[每日听写|9.29]]></description>
         </item>
     </channel>
 </rss>
