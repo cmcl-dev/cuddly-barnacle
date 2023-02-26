@@ -4,11 +4,25 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sat, 25 Feb 2023 01:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 01:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写飞鸟集| He's Just Not That Into You 02]]></title>
+            <link>https://mp.weixin.qq.com/s/ZT5ss9vfU97UqOW5zuYNiA</link>
+            <guid>https://mp.weixin.qq.com/s/ZT5ss9vfU97UqOW5zuYNiA</guid>
+            <pubDate>Sun, 26 Feb 2023 01:17:08 GMT</pubDate>
+            <description><![CDATA[每日听写飞鸟集| He's Just Not That Into You 02]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2.26 早读 | 你不能只靠「如果」来过自己的人生]]></title>
+            <link>https://mp.weixin.qq.com/s/F1Lp-6am8ozcw8-_QyQ9-Q</link>
+            <guid>https://mp.weixin.qq.com/s/F1Lp-6am8ozcw8-_QyQ9-Q</guid>
+            <pubDate>Sun, 26 Feb 2023 01:17:08 GMT</pubDate>
+            <description><![CDATA[2.26 早读 | 你不能只靠「如果」来过自己的人生]]></description>
+        </item>
         <item>
             <title><![CDATA[每日听写 | 2.20-2.24中级汇总]]></title>
             <link>https://mp.weixin.qq.com/s/I-igV82XFznb8PBR4khXQA</link>
@@ -694,20 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/gOijGJS8IfSHld4JSQaa0Q</guid>
             <pubDate>Wed, 05 Oct 2022 07:32:59 GMT</pubDate>
             <description><![CDATA[【国庆特辑】英文歌教唱：Hey Jude]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写|10.4]]></title>
-            <link>https://mp.weixin.qq.com/s/J2YjFIrIAumpazmaPlicrQ</link>
-            <guid>https://mp.weixin.qq.com/s/J2YjFIrIAumpazmaPlicrQ</guid>
-            <pubDate>Tue, 04 Oct 2022 07:17:44 GMT</pubDate>
-            <description><![CDATA[每日听写|10.4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【国庆特辑】英文歌教唱：Five Hundred Miles]]></title>
-            <link>https://mp.weixin.qq.com/s/PDGXD0rC5EtVGi_72ZZ4lQ</link>
-            <guid>https://mp.weixin.qq.com/s/PDGXD0rC5EtVGi_72ZZ4lQ</guid>
-            <pubDate>Tue, 04 Oct 2022 07:17:44 GMT</pubDate>
-            <description><![CDATA[【国庆特辑】英文歌教唱：Five Hundred Miles]]></description>
         </item>
     </channel>
 </rss>
