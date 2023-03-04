@@ -4,11 +4,32 @@
         <title>TeacherGwen</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Mon, 27 Feb 2023 01:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 01:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>TeacherGwen</copyright>
+        <item>
+            <title><![CDATA[每日听写 | 2.27-3.3高级汇总]]></title>
+            <link>https://mp.weixin.qq.com/s/DxU7us76OmXo-j8n4cljJg</link>
+            <guid>https://mp.weixin.qq.com/s/DxU7us76OmXo-j8n4cljJg</guid>
+            <pubDate>Sat, 04 Mar 2023 01:27:51 GMT</pubDate>
+            <description><![CDATA[每日听写 | 2.27-3.3高级汇总]]></description>
+        </item>
+        <item>
+            <title><![CDATA[3.4 早读 | 时间就是如此奇妙，光阴快慢随心境]]></title>
+            <link>https://mp.weixin.qq.com/s/FiTzgsx3axNSJbZPxNgpLQ</link>
+            <guid>https://mp.weixin.qq.com/s/FiTzgsx3axNSJbZPxNgpLQ</guid>
+            <pubDate>Sat, 04 Mar 2023 01:27:51 GMT</pubDate>
+            <description><![CDATA[3.4 早读 | 时间就是如此奇妙，光阴快慢随心境]]></description>
+        </item>
+        <item>
+            <title><![CDATA[听歌学英文| Innocence]]></title>
+            <link>https://mp.weixin.qq.com/s/uw_2xOxDsCJGlFM13En-hw</link>
+            <guid>https://mp.weixin.qq.com/s/uw_2xOxDsCJGlFM13En-hw</guid>
+            <pubDate>Sat, 04 Mar 2023 01:27:51 GMT</pubDate>
+            <description><![CDATA[听歌学英文| Innocence]]></description>
+        </item>
         <item>
             <title><![CDATA[Gwen老师受邀参加视频号官方活动【八点一刻】啦！]]></title>
             <link>https://mp.weixin.qq.com/s/ulNvIMK9RQcEqEcfGxhTfQ</link>
@@ -687,27 +708,6 @@
             <guid>https://mp.weixin.qq.com/s/NjF_EfS6gb5vH7HYbb9UNQ</guid>
             <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
             <description><![CDATA[每日听写飞鸟集|The Graduate 07]]></description>
-        </item>
-        <item>
-            <title><![CDATA[10.9早读 | 下定决心，努力去做。不放弃，不被左右，定能成功]]></title>
-            <link>https://mp.weixin.qq.com/s/ntyfQLi5wJ_UCaG1poUezw</link>
-            <guid>https://mp.weixin.qq.com/s/ntyfQLi5wJ_UCaG1poUezw</guid>
-            <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
-            <description><![CDATA[10.9早读 | 下定决心，努力去做。不放弃，不被左右，定能成功]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为你读诗——我爱这土地]]></title>
-            <link>https://mp.weixin.qq.com/s/AmtjgrR8hrtWjZOpK871Jw</link>
-            <guid>https://mp.weixin.qq.com/s/AmtjgrR8hrtWjZOpK871Jw</guid>
-            <pubDate>Sun, 09 Oct 2022 05:10:41 GMT</pubDate>
-            <description><![CDATA[为你读诗——我爱这土地]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日听写10.3-10.7高级汇总]]></title>
-            <link>https://mp.weixin.qq.com/s/sG2fHB7S7V_NyNPAHelgCQ</link>
-            <guid>https://mp.weixin.qq.com/s/sG2fHB7S7V_NyNPAHelgCQ</guid>
-            <pubDate>Sat, 08 Oct 2022 04:48:20 GMT</pubDate>
-            <description><![CDATA[每日听写10.3-10.7高级汇总]]></description>
         </item>
     </channel>
 </rss>
