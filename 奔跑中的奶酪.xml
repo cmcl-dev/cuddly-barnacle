@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 05 Mar 2023 08:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[手搓了 4 个脚本，帮你提高公众号阅读体验！]]></title>
+            <link>https://mp.weixin.qq.com/s/kG-cdVipfUkuUI5NVFlviw</link>
+            <guid>https://mp.weixin.qq.com/s/kG-cdVipfUkuUI5NVFlviw</guid>
+            <pubDate>Tue, 07 Mar 2023 07:50:14 GMT</pubDate>
+            <description><![CDATA[手搓了 4 个脚本，帮你提高公众号阅读体验！]]></description>
+        </item>
         <item>
             <title><![CDATA[无需魔法，新版 New Bing 使用方法全攻略！]]></title>
             <link>https://mp.weixin.qq.com/s/WFXQ6Cl_EtvDzrYWMzOE1w</link>
@@ -737,13 +744,6 @@ PS：复制到浏览器打开！ 👌]]></description>
             <guid>https://mp.weixin.qq.com/s/SnERjvK7jqt1TyYwmi8WdA</guid>
             <pubDate>Tue, 11 Jan 2022 06:55:35 GMT</pubDate>
             <description><![CDATA[网盘资源全失效了？告诉你两个复活方法！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新版本，包搞定，解决 99% 的视频下载问题]]></title>
-            <link>https://mp.weixin.qq.com/s/IN6m8MvRuJ3BzuhYcoJ8qQ</link>
-            <guid>https://mp.weixin.qq.com/s/IN6m8MvRuJ3BzuhYcoJ8qQ</guid>
-            <pubDate>Mon, 10 Jan 2022 06:55:30 GMT</pubDate>
-            <description><![CDATA[新版本，包搞定，解决 99% 的视频下载问题]]></description>
         </item>
     </channel>
 </rss>
