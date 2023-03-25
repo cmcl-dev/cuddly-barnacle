@@ -4,11 +4,18 @@
         <title>奔跑中的奶酪</title>
         <link>https://mp.weixin.qq.com</link>
         <description></description>
-        <lastBuildDate>Sun, 19 Mar 2023 09:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 06:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://feeddd.org</generator>
         <language>zh-CN</language>
         <copyright>奔跑中的奶酪</copyright>
+        <item>
+            <title><![CDATA[国内使用ChatGPT，这才是正确打开方式！]]></title>
+            <link>https://mp.weixin.qq.com/s/DaCybi3JpQguyJwFQwkI-g</link>
+            <guid>https://mp.weixin.qq.com/s/DaCybi3JpQguyJwFQwkI-g</guid>
+            <pubDate>Sat, 25 Mar 2023 06:29:27 GMT</pubDate>
+            <description><![CDATA[国内使用ChatGPT，这才是正确打开方式！]]></description>
+        </item>
         <item>
             <title><![CDATA[极简版！确定有效，New Bing 免魔法新方案]]></title>
             <link>https://mp.weixin.qq.com/s/QWfouo3PzcXBiOlljqNL-w</link>
@@ -793,13 +800,6 @@ PS：复制到浏览器打开！ 👌]]></description>
             <guid>https://mp.weixin.qq.com/s/O-WJCMorLCf7cJIQfkEg7g</guid>
             <pubDate>Wed, 19 Jan 2022 06:55:47 GMT</pubDate>
             <description><![CDATA[解决无法设置默认浏览器的问题！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全网首发，没有比这更简单的视频下载方法了]]></title>
-            <link>https://mp.weixin.qq.com/s/krQrpNTmFQI4xmofiyAstA</link>
-            <guid>https://mp.weixin.qq.com/s/krQrpNTmFQI4xmofiyAstA</guid>
-            <pubDate>Tue, 18 Jan 2022 11:55:56 GMT</pubDate>
-            <description><![CDATA[全网首发，没有比这更简单的视频下载方法了]]></description>
         </item>
     </channel>
 </rss>
