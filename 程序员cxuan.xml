@@ -1,7 +1,545 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body bgcolor="white">
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>程序员cxuan</title>
+        <link>https://mp.weixin.qq.com</link>
+        <description></description>
+        <lastBuildDate>Wed, 13 Apr 2022 03:20:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://feeddd.org</generator>
+        <language>zh-CN</language>
+        <copyright>程序员cxuan</copyright>
+        <item>
+            <title><![CDATA[好家伙！计算机网络基础知识发布！]]></title>
+            <link>https://mp.weixin.qq.com/s/gteTQ3DutpC6057qK-_yYA</link>
+            <guid>https://mp.weixin.qq.com/s/gteTQ3DutpC6057qK-_yYA</guid>
+            <pubDate>Wed, 13 Apr 2022 03:17:32 GMT</pubDate>
+            <description><![CDATA[好家伙！计算机网络基础知识发布！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么互联网大厂一边大规模裁员，又一边招聘？]]></title>
+            <link>https://mp.weixin.qq.com/s/KQ57f3t7D6GtkuJ1YA04JQ</link>
+            <guid>https://mp.weixin.qq.com/s/KQ57f3t7D6GtkuJ1YA04JQ</guid>
+            <pubDate>Fri, 08 Apr 2022 01:32:34 GMT</pubDate>
+            <description><![CDATA[为什么互联网大厂一边大规模裁员，又一边招聘？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[xdm，外包能干吗？]]></title>
+            <link>https://mp.weixin.qq.com/s/OVJgMWoxPxgq27e6gYnk1A</link>
+            <guid>https://mp.weixin.qq.com/s/OVJgMWoxPxgq27e6gYnk1A</guid>
+            <pubDate>Sat, 02 Apr 2022 03:06:24 GMT</pubDate>
+            <description><![CDATA[xdm，外包能干吗？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[突然发现得考个研究生了]]></title>
+            <link>https://mp.weixin.qq.com/s/wbn_6AtVtQPGAT3n2IMqGA</link>
+            <guid>https://mp.weixin.qq.com/s/wbn_6AtVtQPGAT3n2IMqGA</guid>
+            <pubDate>Wed, 30 Mar 2022 06:18:40 GMT</pubDate>
+            <description><![CDATA[突然发现得考个研究生了]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有个这个工具后，开发效率提升了 10 倍]]></title>
+            <link>https://mp.weixin.qq.com/s/xJnzL1gkRIk46ScSBI-mFA</link>
+            <guid>https://mp.weixin.qq.com/s/xJnzL1gkRIk46ScSBI-mFA</guid>
+            <pubDate>Mon, 28 Mar 2022 01:12:13 GMT</pubDate>
+            <description><![CDATA[有个这个工具后，开发效率提升了 10 倍]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10 分钟讲完 QUIC 协议]]></title>
+            <link>https://mp.weixin.qq.com/s/nJp1ollExYiZ1oJtwRx0Uw</link>
+            <guid>https://mp.weixin.qq.com/s/nJp1ollExYiZ1oJtwRx0Uw</guid>
+            <pubDate>Mon, 21 Mar 2022 03:22:07 GMT</pubDate>
+            <description><![CDATA[10 分钟讲完 QUIC 协议]]></description>
+        </item>
+        <item>
+            <title><![CDATA[南大的七年]]></title>
+            <link>https://mp.weixin.qq.com/s/C1nkrvZgKcwZVravtU0HpQ</link>
+            <guid>https://mp.weixin.qq.com/s/C1nkrvZgKcwZVravtU0HpQ</guid>
+            <pubDate>Fri, 18 Mar 2022 01:41:29 GMT</pubDate>
+            <description><![CDATA[南大的七年]]></description>
+        </item>
+        <item>
+            <title><![CDATA[万字总结，体系化带你全面认识 Nginx ！]]></title>
+            <link>https://mp.weixin.qq.com/s/udzXRiiNzOFrc5JF1CR2hQ</link>
+            <guid>https://mp.weixin.qq.com/s/udzXRiiNzOFrc5JF1CR2hQ</guid>
+            <pubDate>Tue, 15 Mar 2022 07:57:18 GMT</pubDate>
+            <description><![CDATA[万字总结，体系化带你全面认识 Nginx ！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[字节大神，直接火了！]]></title>
+            <link>https://mp.weixin.qq.com/s/07KWej-kCUKZvmDtLjkm9w</link>
+            <guid>https://mp.weixin.qq.com/s/07KWej-kCUKZvmDtLjkm9w</guid>
+            <pubDate>Fri, 11 Mar 2022 03:08:48 GMT</pubDate>
+            <description><![CDATA[字节大神，直接火了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[计算机网络的 166 个核心概念]]></title>
+            <link>https://mp.weixin.qq.com/s/OHNfWSUA0vRSU2ngRnHJQA</link>
+            <guid>https://mp.weixin.qq.com/s/OHNfWSUA0vRSU2ngRnHJQA</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:08 GMT</pubDate>
+            <description><![CDATA[计算机网络的 166 个核心概念]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全家为什么只有我读到了博士]]></title>
+            <link>https://mp.weixin.qq.com/s/U__lWby8dRSghwVtIVCw1Q</link>
+            <guid>https://mp.weixin.qq.com/s/U__lWby8dRSghwVtIVCw1Q</guid>
+            <pubDate>Mon, 07 Mar 2022 02:41:02 GMT</pubDate>
+            <description><![CDATA[全家为什么只有我读到了博士]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《对线面试官》SpringBean 生命周期]]></title>
+            <link>https://mp.weixin.qq.com/s/RJT1Ta_FDU-jeyMBmhIDcw</link>
+            <guid>https://mp.weixin.qq.com/s/RJT1Ta_FDU-jeyMBmhIDcw</guid>
+            <pubDate>Fri, 04 Mar 2022 03:36:35 GMT</pubDate>
+            <description><![CDATA[《对线面试官》SpringBean 生命周期]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人性的冷漠。]]></title>
+            <link>https://mp.weixin.qq.com/s/D3FO41qBn0-GPZeek9QgbA</link>
+            <guid>https://mp.weixin.qq.com/s/D3FO41qBn0-GPZeek9QgbA</guid>
+            <pubDate>Wed, 02 Mar 2022 02:43:10 GMT</pubDate>
+            <description><![CDATA[人性的冷漠。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MySQL 玩儿出花了！]]></title>
+            <link>https://mp.weixin.qq.com/s/F4iaGHxUn8WAvg-H_Qdzcg</link>
+            <guid>https://mp.weixin.qq.com/s/F4iaGHxUn8WAvg-H_Qdzcg</guid>
+            <pubDate>Tue, 01 Mar 2022 02:22:26 GMT</pubDate>
+            <description><![CDATA[MySQL 玩儿出花了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[进抖音了....]]></title>
+            <link>https://mp.weixin.qq.com/s/u5JoO7MHyv1AmnHwmwdrAQ</link>
+            <guid>https://mp.weixin.qq.com/s/u5JoO7MHyv1AmnHwmwdrAQ</guid>
+            <pubDate>Mon, 28 Feb 2022 03:12:44 GMT</pubDate>
+            <description><![CDATA[进抖音了....]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NAT 协议？？？]]></title>
+            <link>https://mp.weixin.qq.com/s/_Sw_FStGbxlA8VoEFiKyFQ</link>
+            <guid>https://mp.weixin.qq.com/s/_Sw_FStGbxlA8VoEFiKyFQ</guid>
+            <pubDate>Wed, 23 Feb 2022 06:38:25 GMT</pubDate>
+            <description><![CDATA[NAT 协议？？？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11位大佬的一手面经，这才是金三银四大杀器！]]></title>
+            <link>https://mp.weixin.qq.com/s/za27A23jjZ6uM1pJU-kH-Q</link>
+            <guid>https://mp.weixin.qq.com/s/za27A23jjZ6uM1pJU-kH-Q</guid>
+            <pubDate>Mon, 21 Feb 2022 02:29:35 GMT</pubDate>
+            <description><![CDATA[11位大佬的一手面经，这才是金三银四大杀器！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么有人连操作系统的基本知识都不懂？]]></title>
+            <link>https://mp.weixin.qq.com/s/hhsEhcq30G0C6dY944-AJQ</link>
+            <guid>https://mp.weixin.qq.com/s/hhsEhcq30G0C6dY944-AJQ</guid>
+            <pubDate>Sat, 19 Feb 2022 02:47:16 GMT</pubDate>
+            <description><![CDATA[为什么有人连操作系统的基本知识都不懂？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从 MMU 看内存管理]]></title>
+            <link>https://mp.weixin.qq.com/s/mRw4hUiGKtnIxSLKMvSA6Q</link>
+            <guid>https://mp.weixin.qq.com/s/mRw4hUiGKtnIxSLKMvSA6Q</guid>
+            <pubDate>Thu, 17 Feb 2022 02:14:56 GMT</pubDate>
+            <description><![CDATA[从 MMU 看内存管理]]></description>
+        </item>
+        <item>
+            <title><![CDATA[netstat 还能这么玩儿？]]></title>
+            <link>https://mp.weixin.qq.com/s/FEKnCtmrntHQ74ziMX93VA</link>
+            <guid>https://mp.weixin.qq.com/s/FEKnCtmrntHQ74ziMX93VA</guid>
+            <pubDate>Mon, 14 Feb 2022 02:30:31 GMT</pubDate>
+            <description><![CDATA[netstat 还能这么玩儿？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[40k稳了，数据湖真yyds！]]></title>
+            <link>https://mp.weixin.qq.com/s/9xzpjE2Lixuzi1RvOf8t9A</link>
+            <guid>https://mp.weixin.qq.com/s/9xzpjE2Lixuzi1RvOf8t9A</guid>
+            <pubDate>Fri, 11 Feb 2022 03:36:35 GMT</pubDate>
+            <description><![CDATA[40k稳了，数据湖真yyds！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[啥叫进入内核态？？？]]></title>
+            <link>https://mp.weixin.qq.com/s/9HFWgV7VCXmjOtsjn10r7w</link>
+            <guid>https://mp.weixin.qq.com/s/9HFWgV7VCXmjOtsjn10r7w</guid>
+            <pubDate>Thu, 10 Feb 2022 02:23:49 GMT</pubDate>
+            <description><![CDATA[啥叫进入内核态？？？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哈哈哈，去年这些网站"崩了"！]]></title>
+            <link>https://mp.weixin.qq.com/s/NWJXwmRCtTvNfWP12K_DfQ</link>
+            <guid>https://mp.weixin.qq.com/s/NWJXwmRCtTvNfWP12K_DfQ</guid>
+            <pubDate>Mon, 07 Feb 2022 03:05:51 GMT</pubDate>
+            <description><![CDATA[哈哈哈，去年这些网站"崩了"！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新款 Mac，王炸！]]></title>
+            <link>https://mp.weixin.qq.com/s/5QruhRTRvr3JcXPIngod5g</link>
+            <guid>https://mp.weixin.qq.com/s/5QruhRTRvr3JcXPIngod5g</guid>
+            <pubDate>Tue, 01 Feb 2022 05:52:56 GMT</pubDate>
+            <description><![CDATA[新款 Mac，王炸！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[想不到这个网站都玩元宇宙了！]]></title>
+            <link>https://mp.weixin.qq.com/s/ZwLxDeGG-MwzgOzSLJoU7Q</link>
+            <guid>https://mp.weixin.qq.com/s/ZwLxDeGG-MwzgOzSLJoU7Q</guid>
+            <pubDate>Sun, 30 Jan 2022 05:07:55 GMT</pubDate>
+            <description><![CDATA[想不到这个网站都玩元宇宙了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中美教育对比]]></title>
+            <link>https://mp.weixin.qq.com/s/weKeSMinC-i2y9MVoveKcg</link>
+            <guid>https://mp.weixin.qq.com/s/weKeSMinC-i2y9MVoveKcg</guid>
+            <pubDate>Fri, 28 Jan 2022 09:14:36 GMT</pubDate>
+            <description><![CDATA[中美教育对比]]></description>
+        </item>
+        <item>
+            <title><![CDATA[十年光阴如梭]]></title>
+            <link>https://mp.weixin.qq.com/s/_eT4MwTy-8JREuKF0OPKYg</link>
+            <guid>https://mp.weixin.qq.com/s/_eT4MwTy-8JREuKF0OPKYg</guid>
+            <pubDate>Thu, 27 Jan 2022 03:39:20 GMT</pubDate>
+            <description><![CDATA[十年光阴如梭]]></description>
+        </item>
+        <item>
+            <title><![CDATA[见过高并发，没见过低并发。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/2fQcy8YlcUvbqdl8wzj-Ew</link>
+            <guid>https://mp.weixin.qq.com/s/2fQcy8YlcUvbqdl8wzj-Ew</guid>
+            <pubDate>Wed, 26 Jan 2022 04:36:37 GMT</pubDate>
+            <description><![CDATA[见过高并发，没见过低并发。。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[原来这才是动态代理！！！]]></title>
+            <link>https://mp.weixin.qq.com/s/CTWVfSm_6wzfeH7DJm2qRA</link>
+            <guid>https://mp.weixin.qq.com/s/CTWVfSm_6wzfeH7DJm2qRA</guid>
+            <pubDate>Tue, 25 Jan 2022 02:47:02 GMT</pubDate>
+            <description><![CDATA[原来这才是动态代理！！！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[互联网寒冬的根本原因是什么？]]></title>
+            <link>https://mp.weixin.qq.com/s/Nx_veD9da6zLJzNqpTRslw</link>
+            <guid>https://mp.weixin.qq.com/s/Nx_veD9da6zLJzNqpTRslw</guid>
+            <pubDate>Mon, 10 Jan 2022 02:28:46 GMT</pubDate>
+            <description><![CDATA[互联网寒冬的根本原因是什么？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这篇 Linux 总结的很棒啊！]]></title>
+            <link>https://mp.weixin.qq.com/s/MbHCDWDD2TOZmDowc4iDiw</link>
+            <guid>https://mp.weixin.qq.com/s/MbHCDWDD2TOZmDowc4iDiw</guid>
+            <pubDate>Tue, 04 Jan 2022 02:27:45 GMT</pubDate>
+            <description><![CDATA[这篇 Linux 总结的很棒啊！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[看完这篇 Linux 权限，通透了！]]></title>
+            <link>https://mp.weixin.qq.com/s/E4WE9qqQ3ql5eVnVnaz1SQ</link>
+            <guid>https://mp.weixin.qq.com/s/E4WE9qqQ3ql5eVnVnaz1SQ</guid>
+            <pubDate>Wed, 29 Dec 2021 06:24:07 GMT</pubDate>
+            <description><![CDATA[看完这篇 Linux 权限，通透了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[手撸一个网易云音乐！]]></title>
+            <link>https://mp.weixin.qq.com/s/H8g_ZM9L1fZXVhRFJkukFg</link>
+            <guid>https://mp.weixin.qq.com/s/H8g_ZM9L1fZXVhRFJkukFg</guid>
+            <pubDate>Tue, 28 Dec 2021 02:20:52 GMT</pubDate>
+            <description><![CDATA[手撸一个网易云音乐！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[再见 Postman，我选择 ApiPost ！]]></title>
+            <link>https://mp.weixin.qq.com/s/DH3P28zATJrHKcOQDhY_Ug</link>
+            <guid>https://mp.weixin.qq.com/s/DH3P28zATJrHKcOQDhY_Ug</guid>
+            <pubDate>Tue, 21 Dec 2021 07:50:08 GMT</pubDate>
+            <description><![CDATA[再见 Postman，我选择 ApiPost ！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[李纳斯是个怎样的人？]]></title>
+            <link>https://mp.weixin.qq.com/s/wyUUyf9cEKgr7s51EQYF9w</link>
+            <guid>https://mp.weixin.qq.com/s/wyUUyf9cEKgr7s51EQYF9w</guid>
+            <pubDate>Sun, 19 Dec 2021 04:07:53 GMT</pubDate>
+            <description><![CDATA[李纳斯是个怎样的人？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[原来这才是 Socket！]]></title>
+            <link>https://mp.weixin.qq.com/s/3Ma4nnkZNWiXacS7Ds2x4Q</link>
+            <guid>https://mp.weixin.qq.com/s/3Ma4nnkZNWiXacS7Ds2x4Q</guid>
+            <pubDate>Wed, 15 Dec 2021 02:19:04 GMT</pubDate>
+            <description><![CDATA[原来这才是 Socket！]]></description>
+        </item>
+        <item>
+            <title><![CDATA["我的"职业规划]]></title>
+            <link>https://mp.weixin.qq.com/s/FrsSfwaoAZNpwE20Bf3EqA</link>
+            <guid>https://mp.weixin.qq.com/s/FrsSfwaoAZNpwE20Bf3EqA</guid>
+            <pubDate>Mon, 13 Dec 2021 02:17:54 GMT</pubDate>
+            <description><![CDATA["我的"职业规划]]></description>
+        </item>
+        <item>
+            <title><![CDATA[手撕汇编。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/7W_Qom-mG4T4U0paNV3Mpw</link>
+            <guid>https://mp.weixin.qq.com/s/7W_Qom-mG4T4U0paNV3Mpw</guid>
+            <pubDate>Wed, 08 Dec 2021 08:31:56 GMT</pubDate>
+            <description><![CDATA[手撕汇编。。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面了个做电商平台业务出来的，基础是真的狠！]]></title>
+            <link>https://mp.weixin.qq.com/s/Uwa8MafqVNzq3d8Xy2H_pw</link>
+            <guid>https://mp.weixin.qq.com/s/Uwa8MafqVNzq3d8Xy2H_pw</guid>
+            <pubDate>Tue, 07 Dec 2021 06:14:49 GMT</pubDate>
+            <description><![CDATA[面了个做电商平台业务出来的，基础是真的狠！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[别让自己"墙"了自己]]></title>
+            <link>https://mp.weixin.qq.com/s/9JTTHq4ufjzwqFmdoHcS0w</link>
+            <guid>https://mp.weixin.qq.com/s/9JTTHq4ufjzwqFmdoHcS0w</guid>
+            <pubDate>Mon, 06 Dec 2021 02:18:02 GMT</pubDate>
+            <description><![CDATA[别让自己"墙"了自己]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2022靠这个！进字节，阿里，腾讯！！！]]></title>
+            <link>https://mp.weixin.qq.com/s/pUmJ0YiUXZsGn55o_OKf0g</link>
+            <guid>https://mp.weixin.qq.com/s/pUmJ0YiUXZsGn55o_OKf0g</guid>
+            <pubDate>Fri, 03 Dec 2021 06:43:32 GMT</pubDate>
+            <description><![CDATA[2022靠这个！进字节，阿里，腾讯！！！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们小区着火了。]]></title>
+            <link>https://mp.weixin.qq.com/s/PHek2pvAsjxDqq5gPtkbOQ</link>
+            <guid>https://mp.weixin.qq.com/s/PHek2pvAsjxDqq5gPtkbOQ</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:55 GMT</pubDate>
+            <description><![CDATA[我们小区着火了。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[王小波的计算机水平有多好？]]></title>
+            <link>https://mp.weixin.qq.com/s/RDUzAGsfGCSmH67czIyYmA</link>
+            <guid>https://mp.weixin.qq.com/s/RDUzAGsfGCSmH67czIyYmA</guid>
+            <pubDate>Mon, 29 Nov 2021 01:56:09 GMT</pubDate>
+            <description><![CDATA[王小波的计算机水平有多好？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[风向变了！本科的程序员也是说裁就裁。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/TZIlU4XtwMASsMNZ_GbZUA</link>
+            <guid>https://mp.weixin.qq.com/s/TZIlU4XtwMASsMNZ_GbZUA</guid>
+            <pubDate>Fri, 26 Nov 2021 03:01:55 GMT</pubDate>
+            <description><![CDATA[风向变了！本科的程序员也是说裁就裁。。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是基础知识？]]></title>
+            <link>https://mp.weixin.qq.com/s/PhG5ifWUxP9VrvOOTnLnGQ</link>
+            <guid>https://mp.weixin.qq.com/s/PhG5ifWUxP9VrvOOTnLnGQ</guid>
+            <pubDate>Thu, 25 Nov 2021 02:24:22 GMT</pubDate>
+            <description><![CDATA[什么是基础知识？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[手把手教你汇编 Debug]]></title>
+            <link>https://mp.weixin.qq.com/s/PQzuKtSiHwZleTosvop68A</link>
+            <guid>https://mp.weixin.qq.com/s/PQzuKtSiHwZleTosvop68A</guid>
+            <pubDate>Wed, 24 Nov 2021 10:54:53 GMT</pubDate>
+            <description><![CDATA[手把手教你汇编 Debug]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一言难尽啊。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/vHNjUogrDL-TfMQ6ClJwTw</link>
+            <guid>https://mp.weixin.qq.com/s/vHNjUogrDL-TfMQ6ClJwTw</guid>
+            <pubDate>Sun, 21 Nov 2021 04:44:32 GMT</pubDate>
+            <description><![CDATA[一言难尽啊。。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[雷布斯做程序员时写的博客，太牛了！]]></title>
+            <link>https://mp.weixin.qq.com/s/xPZ-Zv7oXKIhXUDAF6FXow</link>
+            <guid>https://mp.weixin.qq.com/s/xPZ-Zv7oXKIhXUDAF6FXow</guid>
+            <pubDate>Fri, 12 Nov 2021 04:33:27 GMT</pubDate>
+            <description><![CDATA[雷布斯做程序员时写的博客，太牛了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C 语言基础，来喽！]]></title>
+            <link>https://mp.weixin.qq.com/s/5vlw9teWyPR5CIUbeYUsOA</link>
+            <guid>https://mp.weixin.qq.com/s/5vlw9teWyPR5CIUbeYUsOA</guid>
+            <pubDate>Thu, 11 Nov 2021 05:09:36 GMT</pubDate>
+            <description><![CDATA[C 语言基础，来喽！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这个网站，要火！]]></title>
+            <link>https://mp.weixin.qq.com/s/CuUcTa2FuuWtS0wugE0Jvg</link>
+            <guid>https://mp.weixin.qq.com/s/CuUcTa2FuuWtS0wugE0Jvg</guid>
+            <pubDate>Wed, 10 Nov 2021 09:54:23 GMT</pubDate>
+            <description><![CDATA[这个网站，要火！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[跟着字节大佬学 Go ！]]></title>
+            <link>https://mp.weixin.qq.com/s/JCOyzdqqQQ0735c2leXGpA</link>
+            <guid>https://mp.weixin.qq.com/s/JCOyzdqqQQ0735c2leXGpA</guid>
+            <pubDate>Tue, 09 Nov 2021 03:31:08 GMT</pubDate>
+            <description><![CDATA[跟着字节大佬学 Go ！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[程序员的水平能有多低？]]></title>
+            <link>https://mp.weixin.qq.com/s/OhYByzb7i6IjijtxQWPZWw</link>
+            <guid>https://mp.weixin.qq.com/s/OhYByzb7i6IjijtxQWPZWw</guid>
+            <pubDate>Fri, 05 Nov 2021 02:09:56 GMT</pubDate>
+            <description><![CDATA[程序员的水平能有多低？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何卷过大多数人？]]></title>
+            <link>https://mp.weixin.qq.com/s/tXUNct6O7t6yevnqm2XCtQ</link>
+            <guid>https://mp.weixin.qq.com/s/tXUNct6O7t6yevnqm2XCtQ</guid>
+            <pubDate>Thu, 04 Nov 2021 10:34:57 GMT</pubDate>
+            <description><![CDATA[如何卷过大多数人？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[几句话，送给程序员]]></title>
+            <link>https://mp.weixin.qq.com/s/ydAoxx2bdZCwL766k4zOtQ</link>
+            <guid>https://mp.weixin.qq.com/s/ydAoxx2bdZCwL766k4zOtQ</guid>
+            <pubDate>Wed, 03 Nov 2021 02:15:18 GMT</pubDate>
+            <description><![CDATA[几句话，送给程序员]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聊了聊宏内核和微内核，并吹了一波 Linux]]></title>
+            <link>https://mp.weixin.qq.com/s/qwlif22TskeGYLh5FpV9Pg</link>
+            <guid>https://mp.weixin.qq.com/s/qwlif22TskeGYLh5FpV9Pg</guid>
+            <pubDate>Mon, 01 Nov 2021 04:37:50 GMT</pubDate>
+            <description><![CDATA[聊了聊宏内核和微内核，并吹了一波 Linux]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被 CSAPP 虐了！]]></title>
+            <link>https://mp.weixin.qq.com/s/k2vQuQRUP-Q23RYjT0Mnaw</link>
+            <guid>https://mp.weixin.qq.com/s/k2vQuQRUP-Q23RYjT0Mnaw</guid>
+            <pubDate>Wed, 27 Oct 2021 14:08:55 GMT</pubDate>
+            <description><![CDATA[被 CSAPP 虐了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[周末来个王炸！！]]></title>
+            <link>https://mp.weixin.qq.com/s/oyKqcjawHobHaLul_ToutQ</link>
+            <guid>https://mp.weixin.qq.com/s/oyKqcjawHobHaLul_ToutQ</guid>
+            <pubDate>Sun, 24 Oct 2021 06:28:07 GMT</pubDate>
+            <description><![CDATA[周末来个王炸！！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[程序员恭喜了！10月起逼自己拿下这个证，年薪68万起！]]></title>
+            <link>https://mp.weixin.qq.com/s/y-FgvX0n5ElE5nogr_q76Q</link>
+            <guid>https://mp.weixin.qq.com/s/y-FgvX0n5ElE5nogr_q76Q</guid>
+            <pubDate>Fri, 22 Oct 2021 02:17:44 GMT</pubDate>
+            <description><![CDATA[程序员恭喜了！10月起逼自己拿下这个证，年薪68万起！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[5 分钟带你了解 HTTP 代理]]></title>
+            <link>https://mp.weixin.qq.com/s/78LY7NNJMaVXyQv56u6BUg</link>
+            <guid>https://mp.weixin.qq.com/s/78LY7NNJMaVXyQv56u6BUg</guid>
+            <pubDate>Tue, 19 Oct 2021 09:55:24 GMT</pubDate>
+            <description><![CDATA[5 分钟带你了解 HTTP 代理]]></description>
+        </item>
+        <item>
+            <title><![CDATA[图解 Linux ，我悟了！]]></title>
+            <link>https://mp.weixin.qq.com/s/jgYCOUWaueU9xy1cXOwTLw</link>
+            <guid>https://mp.weixin.qq.com/s/jgYCOUWaueU9xy1cXOwTLw</guid>
+            <pubDate>Mon, 18 Oct 2021 02:48:21 GMT</pubDate>
+            <description><![CDATA[图解 Linux ，我悟了！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么我放弃百万年薪，却要从事自由职业？]]></title>
+            <link>https://mp.weixin.qq.com/s/ckNRxuafo6jmNJ9fswFXWg</link>
+            <guid>https://mp.weixin.qq.com/s/ckNRxuafo6jmNJ9fswFXWg</guid>
+            <pubDate>Sun, 17 Oct 2021 06:06:18 GMT</pubDate>
+            <description><![CDATA[为什么我放弃百万年薪，却要从事自由职业？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LongAdder ，这哥们劲儿大]]></title>
+            <link>https://mp.weixin.qq.com/s/qzGGvXJWH6SQ3bQWQ5JB1A</link>
+            <guid>https://mp.weixin.qq.com/s/qzGGvXJWH6SQ3bQWQ5JB1A</guid>
+            <pubDate>Fri, 15 Oct 2021 02:44:50 GMT</pubDate>
+            <description><![CDATA[LongAdder ，这哥们劲儿大]]></description>
+        </item>
+        <item>
+            <title><![CDATA[那个 211 学历造假的程序员 ，被辞退了。。。]]></title>
+            <link>https://mp.weixin.qq.com/s/sVBv_hfQsgx2gC9HXRIFkQ</link>
+            <guid>https://mp.weixin.qq.com/s/sVBv_hfQsgx2gC9HXRIFkQ</guid>
+            <pubDate>Wed, 13 Oct 2021 02:54:04 GMT</pubDate>
+            <description><![CDATA[那个 211 学历造假的程序员 ，被辞退了。。。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[教你用 docker 搞个网站]]></title>
+            <link>https://mp.weixin.qq.com/s/k6SUYpBvQSE8WZ0PeD4Slg</link>
+            <guid>https://mp.weixin.qq.com/s/k6SUYpBvQSE8WZ0PeD4Slg</guid>
+            <pubDate>Mon, 11 Oct 2021 02:12:47 GMT</pubDate>
+            <description><![CDATA[教你用 docker 搞个网站]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10 个让人头疼的 bug]]></title>
+            <link>https://mp.weixin.qq.com/s/uF0p8MGDhfvke4gdRv44iA</link>
+            <guid>https://mp.weixin.qq.com/s/uF0p8MGDhfvke4gdRv44iA</guid>
+            <pubDate>Sat, 09 Oct 2021 03:01:28 GMT</pubDate>
+            <description><![CDATA[10 个让人头疼的 bug]]></description>
+        </item>
+        <item>
+            <title><![CDATA[真香！]]></title>
+            <link>https://mp.weixin.qq.com/s/nGrZhoMvOZ1Gl35DfcYtNw</link>
+            <guid>https://mp.weixin.qq.com/s/nGrZhoMvOZ1Gl35DfcYtNw</guid>
+            <pubDate>Sat, 02 Oct 2021 08:39:50 GMT</pubDate>
+            <description><![CDATA[真香！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国庆，我电脑丢了。]]></title>
+            <link>https://mp.weixin.qq.com/s/pKVio580H36bcq2cwGqC-w</link>
+            <guid>https://mp.weixin.qq.com/s/pKVio580H36bcq2cwGqC-w</guid>
+            <pubDate>Fri, 01 Oct 2021 15:51:05 GMT</pubDate>
+            <description><![CDATA[国庆，我电脑丢了。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被MySQL虐的日子，实惨！]]></title>
+            <link>https://mp.weixin.qq.com/s/YIrHsh2Ipb0mtjorqwCKYw</link>
+            <guid>https://mp.weixin.qq.com/s/YIrHsh2Ipb0mtjorqwCKYw</guid>
+            <pubDate>Wed, 29 Sep 2021 03:34:49 GMT</pubDate>
+            <description><![CDATA[被MySQL虐的日子，实惨！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据说看完这篇 JVM 要一小时]]></title>
+            <link>https://mp.weixin.qq.com/s/RabFNSMDN7Qv2SBXfYMYNw</link>
+            <guid>https://mp.weixin.qq.com/s/RabFNSMDN7Qv2SBXfYMYNw</guid>
+            <pubDate>Mon, 27 Sep 2021 02:23:48 GMT</pubDate>
+            <description><![CDATA[据说看完这篇 JVM 要一小时]]></description>
+        </item>
+        <item>
+            <title><![CDATA[35岁，我被优化了？]]></title>
+            <link>https://mp.weixin.qq.com/s/ah9VKw69mlus1R0X48OOYQ</link>
+            <guid>https://mp.weixin.qq.com/s/ah9VKw69mlus1R0X48OOYQ</guid>
+            <pubDate>Sun, 26 Sep 2021 02:19:33 GMT</pubDate>
+            <description><![CDATA[35岁，我被优化了？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[再见！LayUI ！]]></title>
+            <link>https://mp.weixin.qq.com/s/aXY6kVhvUidB-3LEiusfGA</link>
+            <guid>https://mp.weixin.qq.com/s/aXY6kVhvUidB-3LEiusfGA</guid>
+            <pubDate>Sat, 25 Sep 2021 05:35:19 GMT</pubDate>
+            <description><![CDATA[再见！LayUI ！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你管这叫屠龙之技？]]></title>
+            <link>https://mp.weixin.qq.com/s/1hgGx23ldLZ7WYFzdvSNMw</link>
+            <guid>https://mp.weixin.qq.com/s/1hgGx23ldLZ7WYFzdvSNMw</guid>
+            <pubDate>Fri, 24 Sep 2021 02:21:39 GMT</pubDate>
+            <description><![CDATA[你管这叫屠龙之技？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[面试字节年薪80W的Java岗，压中原题了......]]></title>
+            <link>https://mp.weixin.qq.com/s/JspOlIMnPkAmLJHRCsy5lw</link>
+            <guid>https://mp.weixin.qq.com/s/JspOlIMnPkAmLJHRCsy5lw</guid>
+            <pubDate>Thu, 23 Sep 2021 12:04:57 GMT</pubDate>
+            <description><![CDATA[面试字节年薪80W的Java岗，压中原题了......]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尴尬，老大去字节技术面面了5分钟就结束了.....]]></title>
+            <link>https://mp.weixin.qq.com/s/KrXemg9Xni3BJjWEDUCveg</link>
+            <guid>https://mp.weixin.qq.com/s/KrXemg9Xni3BJjWEDUCveg</guid>
+            <pubDate>Thu, 16 Sep 2021 02:03:16 GMT</pubDate>
+            <description><![CDATA[尴尬，老大去字节技术面面了5分钟就结束了.....]]></description>
+        </item>
+        <item>
+            <title><![CDATA[没错！cxuan 对汇编下手了]]></title>
+            <link>https://mp.weixin.qq.com/s/bG7Os_8WX9R0SPEIM5ndrw</link>
+            <guid>https://mp.weixin.qq.com/s/bG7Os_8WX9R0SPEIM5ndrw</guid>
+            <pubDate>Wed, 15 Sep 2021 12:57:41 GMT</pubDate>
+            <description><![CDATA[没错！cxuan 对汇编下手了]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Java 领域的圣经问世！牛了牛了！！！]]></title>
+            <link>https://mp.weixin.qq.com/s/1E71OGRmEplTiwlxsppWHQ</link>
+            <guid>https://mp.weixin.qq.com/s/1E71OGRmEplTiwlxsppWHQ</guid>
+            <pubDate>Wed, 15 Sep 2021 02:32:24 GMT</pubDate>
+            <description><![CDATA[Java 领域的圣经问世！牛了牛了！！！]]></description>
+        </item>
+    </channel>
+</rss>
